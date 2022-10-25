@@ -1,0 +1,1690 @@
+city,zip,no_of_competitors,rank_in_city,overall_rank
+Ambridge,15003.0,2.0,1.0,2.0
+Atlasburg,15004.0,0.0,0.0,0.5
+Baden,15005.0,0.0,0.0,0.5
+Bairdford,15006.0,0.0,0.0,0.5
+Bakerstown,15007.0,0.0,0.0,0.5
+Beaver,15009.0,1.0,1.0,1.0
+Beaver falls,15010.0,1.0,1.0,1.0
+Belle vernon,15012.0,1.0,1.0,1.0
+Brackenridge,15014.0,0.0,0.0,0.5
+Bradfordwoods,15015.0,0.0,0.0,0.5
+Bridgeville,15017.0,0.0,0.0,0.5
+Buena vista,15018.0,0.0,0.0,0.5
+Bulger,15019.0,0.0,0.0,0.5
+Burgettstown,15021.0,0.0,0.0,0.5
+Charleroi,15022.0,1.0,1.0,1.0
+Cheswick,15024.0,0.0,0.0,0.5
+Clairton,15025.0,0.0,0.0,0.5
+Clinton,15026.0,0.0,0.0,0.5
+Conway,15027.0,1.0,1.0,1.0
+Mckeesport,15028.0,0.0,0.0,0.5
+Creighton,15030.0,0.0,0.0,0.5
+Cuddy,15031.0,0.0,0.0,0.5
+Donora,15033.0,0.0,0.0,0.5
+Dravosburg,15034.0,0.0,0.0,0.5
+East mckeesport,15035.0,0.0,0.0,0.5
+Elizabeth,15037.0,0.0,0.0,0.5
+Elrama,15038.0,0.0,0.0,0.5
+Freedom,15042.0,0.0,0.0,0.5
+Georgetown,15043.0,0.0,0.0,0.5
+Gibsonia,15044.0,2.0,1.0,2.0
+Glassport,15045.0,0.0,0.0,0.5
+Glenwillard,15046.0,0.0,0.0,0.5
+Harwick,15049.0,0.0,0.0,0.5
+Hookstown,15050.0,0.0,0.0,0.5
+Indianola,15051.0,0.0,0.0,0.5
+Industry,15052.0,0.0,0.0,0.5
+Joffre,15053.0,0.0,0.0,0.5
+Langeloth,15054.0,0.0,0.0,0.5
+Lawrence,15055.0,0.0,0.0,0.5
+Leetsdale,15056.0,0.0,0.0,0.5
+Mcdonald,15057.0,0.0,0.0,0.5
+Midland,15059.0,1.0,1.0,1.0
+Midway,15060.0,0.0,0.0,0.5
+Monaca,15061.0,2.0,1.0,2.0
+Monessen,15062.0,1.0,1.0,1.0
+Monongahela,15063.0,1.0,1.0,1.0
+Morgan,15064.0,0.0,0.0,0.5
+Natrona-heights,15065.0,1.0,1.0,1.0
+New brighton,15066.0,1.0,1.0,1.0
+New eagle,15067.0,0.0,0.0,0.5
+New-kensington,15068.0,1.0,1.0,1.0
+Oakdale,15071.0,0.0,0.0,0.5
+Rochester,15074.0,1.0,1.0,1.0
+Russellton,15076.0,0.0,0.0,0.5
+Shippingport,15077.0,0.0,0.0,0.5
+Slovan,15078.0,0.0,0.0,0.5
+South heights,15081.0,0.0,0.0,0.5
+Sturgeon,15082.0,0.0,0.0,0.5
+Sutersville,15083.0,0.0,0.0,0.5
+Tarentum,15084.0,0.0,0.0,0.5
+Trafford,15085.0,0.0,0.0,0.5
+Warrendale,15086.0,0.0,0.0,0.5
+Webster,15087.0,0.0,0.0,0.5
+West elizabeth,15088.0,0.0,0.0,0.5
+West newton,15089.0,1.0,1.0,1.0
+Wexford,15090.0,2.0,1.0,2.0
+Allison park,15101.0,2.0,1.0,2.0
+Bethel park,15102.0,3.0,1.0,3.0
+Braddock,15104.0,0.0,0.0,0.5
+Carnegie,15106.0,1.0,1.0,1.0
+Coraopolis,15108.0,1.0,1.0,1.0
+Duquesne,15110.0,0.0,0.0,0.5
+East pittsburgh,15112.0,0.0,0.0,0.5
+Glenshaw,15116.0,1.0,1.0,1.0
+Homestead,15120.0,1.0,1.0,1.0
+West mifflin,15122.0,1.0,1.0,1.0
+Imperial,15126.0,0.0,0.0,0.5
+South park,15129.0,1.0,1.0,1.0
+Mckeesport,15131.0,0.0,0.0,0.5
+Mckeesport,15132.0,2.0,1.0,2.0
+Mckeesport,15133.0,0.0,0.0,0.5
+Mckeesport,15135.0,0.0,0.0,0.5
+Mckees rocks,15136.0,1.0,1.0,1.0
+North versailles,15137.0,0.0,0.0,0.5
+Oakmont,15139.0,0.0,0.0,0.5
+Pitcairn,15140.0,0.0,0.0,0.5
+Presto,15142.0,0.0,0.0,0.5
+Sewickley,15143.0,1.0,1.0,1.0
+Springdale,15144.0,0.0,0.0,0.5
+Turtle-creek,15145.0,1.0,1.0,1.0
+Monroeville,15146.0,4.0,1.0,4.0
+Verona,15147.0,0.0,0.0,0.5
+Wilmerding,15148.0,0.0,0.0,0.5
+Pittsburgh,15201.0,1.0,1.0,1.0
+Bellevue,15202.0,1.0,1.0,1.0
+Pittsburgh,15203.0,2.0,2.0,2.0
+Pittsburgh,15204.0,0.0,0.0,0.5
+Pittsburgh,15205.0,3.0,3.0,3.0
+Pittsburgh,15206.0,3.0,3.0,3.0
+Pittsburgh,15207.0,1.0,1.0,1.0
+Pittsburgh,15208.0,0.0,0.0,0.5
+Pittsburgh,15209.0,0.0,0.0,0.5
+Pittsburgh,15210.0,3.0,3.0,3.0
+Pittsburgh,15211.0,1.0,1.0,1.0
+Pittsburgh,15212.0,2.0,2.0,2.0
+Pittsburgh,15213.0,4.0,4.0,4.0
+Pittsburgh,15214.0,0.0,0.0,0.5
+Pittsburgh,15215.0,0.0,0.0,0.5
+Pittsburgh,15216.0,3.0,3.0,3.0
+Pittsburgh,15217.0,3.0,3.0,3.0
+Swissvale,15218.0,1.0,1.0,1.0
+Pittsburgh,15219.0,1.0,1.0,1.0
+Pittsburgh,15220.0,0.0,0.0,0.5
+Pittsburgh,15221.0,1.0,1.0,1.0
+Pittsburgh,15222.0,3.0,3.0,3.0
+Pittsburgh,15223.0,2.0,2.0,2.0
+Pittsburgh,15224.0,1.0,1.0,1.0
+Pittsburgh,15225.0,0.0,0.0,0.5
+Pittsburgh,15226.0,1.0,1.0,1.0
+Pittsburgh,15227.0,0.0,0.0,0.5
+Mount-lebanon,15228.0,1.0,1.0,1.0
+Pittsburgh,15229.0,1.0,1.0,1.0
+Pittsburgh,15232.0,1.0,1.0,1.0
+Pittsburgh,15233.0,1.0,1.0,1.0
+Pittsburgh,15234.0,2.0,2.0,2.0
+Penn hills,15235.0,1.0,1.0,1.0
+Pittsburgh,15236.0,4.0,4.0,4.0
+Pittsburgh,15237.0,6.0,5.0,6.0
+Pittsburgh,15238.0,2.0,2.0,2.0
+Pittsburgh,15239.0,1.0,1.0,1.0
+Pittsburgh,15241.0,2.0,2.0,2.0
+Pittsburgh,15243.0,1.0,1.0,1.0
+Washington,15301.0,3.0,1.0,3.0
+Aleppo,15310.0,0.0,0.0,0.5
+Amity,15311.0,0.0,0.0,0.5
+Avella,15312.0,0.0,0.0,0.5
+Beallsville,15313.0,0.0,0.0,0.5
+Bentleyville,15314.0,1.0,1.0,1.0
+Bobtown,15315.0,0.0,0.0,0.5
+Canonsburg,15317.0,2.0,1.0,2.0
+Carmichaels,15320.0,0.0,0.0,0.5
+Cecil,15321.0,0.0,0.0,0.5
+Clarksville,15322.0,0.0,0.0,0.5
+Claysville,15323.0,0.0,0.0,0.5
+Cokeburg,15324.0,0.0,0.0,0.5
+Crucible,15325.0,0.0,0.0,0.5
+Dilliner,15327.0,0.0,0.0,0.5
+Prosperity,15329.0,0.0,0.0,0.5
+Eighty four,15330.0,0.0,0.0,0.5
+Ellsworth,15331.0,0.0,0.0,0.5
+Finleyville,15332.0,0.0,0.0,0.5
+Fredericktown,15333.0,0.0,0.0,0.5
+Garards fort,15334.0,0.0,0.0,0.5
+Graysville,15337.0,0.0,0.0,0.5
+Greensboro,15338.0,0.0,0.0,0.5
+Hickory,15340.0,0.0,0.0,0.5
+Holbrook,15341.0,0.0,0.0,0.5
+Houston,15342.0,0.0,0.0,0.5
+Jefferson,15344.0,0.0,0.0,0.5
+Marianna,15345.0,0.0,0.0,0.5
+Mather,15346.0,0.0,0.0,0.5
+Meadow lands,15347.0,0.0,0.0,0.5
+Millsboro,15348.0,0.0,0.0,0.5
+Mount morris,15349.0,0.0,0.0,0.5
+Muse,15350.0,0.0,0.0,0.5
+Nemacolin,15351.0,0.0,0.0,0.5
+New freeport,15352.0,0.0,0.0,0.5
+Nineveh,15353.0,0.0,0.0,0.5
+Rices landing,15357.0,0.0,0.0,0.5
+Richeyville,15358.0,1.0,1.0,1.0
+Rogersville,15359.0,0.0,0.0,0.5
+Scenery hill,15360.0,0.0,0.0,0.5
+Spraggs,15362.0,0.0,0.0,0.5
+Strabane,15363.0,0.0,0.0,0.5
+Sycamore,15364.0,0.0,0.0,0.5
+Van voorhis,15366.0,0.0,0.0,0.5
+Venetia,15367.0,0.0,0.0,0.5
+Vestaburg,15368.0,0.0,0.0,0.5
+Waynesburg,15370.0,2.0,1.0,2.0
+West alexander,15376.0,0.0,0.0,0.5
+West finley,15377.0,0.0,0.0,0.5
+West middletown,15379.0,0.0,0.0,0.5
+Wind ridge,15380.0,0.0,0.0,0.5
+Uniontown,15401.0,4.0,1.0,4.0
+Adah,15410.0,0.0,0.0,0.5
+Addison,15411.0,0.0,0.0,0.5
+Allenport,15412.0,0.0,0.0,0.5
+Allison,15413.0,0.0,0.0,0.5
+Brownsville,15417.0,0.0,0.0,0.5
+California,15419.0,1.0,1.0,1.0
+Cardale,15420.0,0.0,0.0,0.5
+New salem,15422.0,0.0,0.0,0.5
+Coal center,15423.0,0.0,0.0,0.5
+Confluence,15424.0,0.0,0.0,0.5
+Connellsville,15425.0,1.0,1.0,1.0
+Daisytown,15427.0,0.0,0.0,0.5
+Dawson,15428.0,0.0,0.0,0.5
+Dickerson run,15430.0,0.0,0.0,0.5
+Dunbar,15431.0,0.0,0.0,0.5
+Dunlevy,15432.0,0.0,0.0,0.5
+East millsboro,15433.0,0.0,0.0,0.5
+Elco,15434.0,0.0,0.0,0.5
+Fairbank,15435.0,0.0,0.0,0.5
+Fairchance,15436.0,0.0,0.0,0.5
+Farmington,15437.0,0.0,0.0,0.5
+Fayette city,15438.0,0.0,0.0,0.5
+Gibbon glade,15440.0,0.0,0.0,0.5
+Grindstone,15442.0,1.0,1.0,1.0
+Hiller,15444.0,0.0,0.0,0.5
+Hopwood,15445.0,0.0,0.0,0.5
+Indian head,15446.0,0.0,0.0,0.5
+Jacobs creek,15448.0,0.0,0.0,0.5
+Smock,15449.0,0.0,0.0,0.5
+La belle,15450.0,0.0,0.0,0.5
+Lake lynn,15451.0,0.0,0.0,0.5
+Mcclellandtown,15454.0,0.0,0.0,0.5
+Vanderbilt,15455.0,0.0,0.0,0.5
+Lemont furnace,15456.0,0.0,0.0,0.5
+Mcclellandtown,15458.0,0.0,0.0,0.5
+Markleysburg,15459.0,0.0,0.0,0.5
+Smithfield,15460.0,0.0,0.0,0.5
+Masontown,15461.0,1.0,1.0,1.0
+Melcroft,15462.0,0.0,0.0,0.5
+Mill run,15464.0,0.0,0.0,0.5
+Newell,15466.0,0.0,0.0,0.5
+New geneva,15467.0,0.0,0.0,0.5
+New salem,15468.0,0.0,0.0,0.5
+Normalville,15469.0,0.0,0.0,0.5
+Ohiopyle,15470.0,0.0,0.0,0.5
+Uniontown,15472.0,0.0,0.0,0.5
+Perryopolis,15473.0,0.0,0.0,0.5
+Point marion,15474.0,0.0,0.0,0.5
+Republic,15475.0,0.0,0.0,0.5
+Roscoe,15477.0,0.0,0.0,0.5
+Smithfield,15478.0,0.0,0.0,0.5
+Smithton,15479.0,0.0,0.0,0.5
+Smock,15480.0,0.0,0.0,0.5
+Perryopolis,15482.0,0.0,0.0,0.5
+Stockdale,15483.0,0.0,0.0,0.5
+Uledi,15484.0,0.0,0.0,0.5
+Vanderbilt,15486.0,0.0,0.0,0.5
+Uniontown,15489.0,0.0,0.0,0.5
+White,15490.0,0.0,0.0,0.5
+Somerset,15501.0,1.0,1.0,1.0
+Hidden valley,15502.0,0.0,0.0,0.5
+Acosta,15520.0,0.0,0.0,0.5
+Alum bank,15521.0,0.0,0.0,0.5
+Bedford,15522.0,1.0,1.0,1.0
+Berlin,15530.0,0.0,0.0,0.5
+Boswell,15531.0,0.0,0.0,0.5
+Meyersdale,15532.0,0.0,0.0,0.5
+Breezewood,15533.0,0.0,0.0,0.5
+Buffalo mills,15534.0,0.0,0.0,0.5
+Clearville,15535.0,0.0,0.0,0.5
+Crystal spring,15536.0,0.0,0.0,0.5
+Everett,15537.0,0.0,0.0,0.5
+Fairhope township,15538.0,0.0,0.0,0.5
+Fishertown,15539.0,0.0,0.0,0.5
+Fort hill,15540.0,0.0,0.0,0.5
+Friedens,15541.0,0.0,0.0,0.5
+Garrett,15542.0,0.0,0.0,0.5
+Gray,15544.0,0.0,0.0,0.5
+Hyndman,15545.0,0.0,0.0,0.5
+Jenners,15546.0,0.0,0.0,0.5
+Jennerstown,15547.0,0.0,0.0,0.5
+Manns choice,15550.0,0.0,0.0,0.5
+Markleton,15551.0,0.0,0.0,0.5
+Meyersdale,15552.0,0.0,0.0,0.5
+New paris,15554.0,0.0,0.0,0.5
+Quecreek,15555.0,0.0,0.0,0.5
+Rockwood,15557.0,0.0,0.0,0.5
+Salisbury,15558.0,0.0,0.0,0.5
+Schellsburg,15559.0,0.0,0.0,0.5
+Shanksville,15560.0,0.0,0.0,0.5
+Quecreek,15561.0,0.0,0.0,0.5
+Springs,15562.0,0.0,0.0,0.5
+Indian lake,15563.0,0.0,0.0,0.5
+Wellersburg,15564.0,0.0,0.0,0.5
+Greensburg,15601.0,4.0,1.0,4.0
+Acme,15610.0,0.0,0.0,0.5
+Adamsburg,15611.0,0.0,0.0,0.5
+Alverton,15612.0,0.0,0.0,0.5
+Apollo,15613.0,0.0,0.0,0.5
+Ardara,15615.0,0.0,0.0,0.5
+Arona,15617.0,0.0,0.0,0.5
+Avonmore,15618.0,0.0,0.0,0.5
+Bradenville,15620.0,0.0,0.0,0.5
+Champion,15622.0,0.0,0.0,0.5
+Claridge,15623.0,0.0,0.0,0.5
+Crabtree,15624.0,0.0,0.0,0.5
+Delmont,15626.0,0.0,0.0,0.5
+Derry,15627.0,0.0,0.0,0.5
+Donegal,15628.0,0.0,0.0,0.5
+Vandergrift,15629.0,0.0,0.0,0.5
+Everson,15631.0,0.0,0.0,0.5
+Export,15632.0,0.0,0.0,0.5
+Forbes road,15633.0,0.0,0.0,0.5
+Grapeville,15634.0,0.0,0.0,0.5
+Hannastown,15635.0,0.0,0.0,0.5
+Harrison city,15636.0,0.0,0.0,0.5
+Herminie,15637.0,0.0,0.0,0.5
+Hostetter,15638.0,0.0,0.0,0.5
+Hunker,15639.0,0.0,0.0,0.5
+Herminie,15640.0,0.0,0.0,0.5
+Hyde park,15641.0,0.0,0.0,0.5
+North huntingdon,15642.0,2.0,1.0,2.0
+Jeannette,15644.0,0.0,0.0,0.5
+Jones mills,15646.0,0.0,0.0,0.5
+Larimer,15647.0,0.0,0.0,0.5
+Latrobe,15650.0,3.0,1.0,3.0
+Leechburg,15656.0,0.0,0.0,0.5
+Ligonier,15658.0,0.0,0.0,0.5
+Lowber,15660.0,0.0,0.0,0.5
+Loyalhanna,15661.0,0.0,0.0,0.5
+Luxor,15662.0,0.0,0.0,0.5
+Madison,15663.0,0.0,0.0,0.5
+Manor,15665.0,0.0,0.0,0.5
+Mount pleasant,15666.0,1.0,1.0,1.0
+Murrysville,15668.0,0.0,0.0,0.5
+New alexandria,15670.0,0.0,0.0,0.5
+New derry,15671.0,0.0,0.0,0.5
+New stanton,15672.0,0.0,0.0,0.5
+North apollo,15673.0,0.0,0.0,0.5
+Penn,15675.0,0.0,0.0,0.5
+Pleasant unity,15676.0,0.0,0.0,0.5
+Rector,15677.0,0.0,0.0,0.5
+Rillton,15678.0,0.0,0.0,0.5
+Ruffs dale,15679.0,0.0,0.0,0.5
+Avonmore,15680.0,0.0,0.0,0.5
+Saltsburg,15681.0,0.0,0.0,0.5
+Scottdale,15683.0,1.0,1.0,1.0
+Slickville,15684.0,0.0,0.0,0.5
+Spring church,15686.0,0.0,0.0,0.5
+Stahlstown,15687.0,0.0,0.0,0.5
+Tarrs,15688.0,0.0,0.0,0.5
+Mount pleasant,15689.0,0.0,0.0,0.5
+Vandergrift,15690.0,0.0,0.0,0.5
+Westmoreland city,15692.0,0.0,0.0,0.5
+Youngstown,15696.0,0.0,0.0,0.5
+Youngwood,15697.0,0.0,0.0,0.5
+Yukon,15698.0,0.0,0.0,0.5
+Indiana,15701.0,2.0,1.0,2.0
+Alverda,15710.0,0.0,0.0,0.5
+Anita,15711.0,0.0,0.0,0.5
+Cherry tree,15712.0,0.0,0.0,0.5
+Northern cambria,15714.0,1.0,1.0,1.0
+Big run,15715.0,0.0,0.0,0.5
+Black lick,15716.0,0.0,0.0,0.5
+Blairsville,15717.0,0.0,0.0,0.5
+Burnside,15721.0,0.0,0.0,0.5
+Carrolltown,15722.0,0.0,0.0,0.5
+Cherry tree,15724.0,0.0,0.0,0.5
+Clarksburg,15725.0,0.0,0.0,0.5
+Clarksburg,15727.0,0.0,0.0,0.5
+Clymer,15728.0,0.0,0.0,0.5
+Commodore,15729.0,0.0,0.0,0.5
+Coolspring,15730.0,0.0,0.0,0.5
+Coral,15731.0,0.0,0.0,0.5
+Creekside,15732.0,0.0,0.0,0.5
+Punxsutawney,15733.0,0.0,0.0,0.5
+Dixonville,15734.0,0.0,0.0,0.5
+Elderton,15736.0,0.0,0.0,0.5
+Elmora,15737.0,0.0,0.0,0.5
+Cherry tree,15738.0,0.0,0.0,0.5
+Clymer,15739.0,0.0,0.0,0.5
+Glen campbell,15741.0,0.0,0.0,0.5
+Glen campbell,15742.0,0.0,0.0,0.5
+Hamilton,15744.0,0.0,0.0,0.5
+Heilwood,15745.0,0.0,0.0,0.5
+Hillsdale,15746.0,0.0,0.0,0.5
+Plumville,15747.0,0.0,0.0,0.5
+Homer city,15748.0,0.0,0.0,0.5
+Josephine,15750.0,0.0,0.0,0.5
+La jose,15753.0,0.0,0.0,0.5
+Lucerne mines,15754.0,0.0,0.0,0.5
+Shelocta,15756.0,0.0,0.0,0.5
+Mahaffey,15757.0,0.0,0.0,0.5
+Marion center,15759.0,0.0,0.0,0.5
+Marsteller,15760.0,0.0,0.0,0.5
+Mentcle,15761.0,0.0,0.0,0.5
+Nicktown,15762.0,0.0,0.0,0.5
+Oliveburg,15764.0,0.0,0.0,0.5
+Penn run,15765.0,0.0,0.0,0.5
+Punxsutawney,15767.0,1.0,1.0,1.0
+Ringgold,15770.0,0.0,0.0,0.5
+Rochester mills,15771.0,0.0,0.0,0.5
+Rossiter,15772.0,0.0,0.0,0.5
+Saint benedict,15773.0,0.0,0.0,0.5
+Shelocta,15774.0,0.0,0.0,0.5
+Northern cambria,15775.0,0.0,0.0,0.5
+Sprankle mills,15776.0,0.0,0.0,0.5
+Starford,15777.0,0.0,0.0,0.5
+Timblin,15778.0,0.0,0.0,0.5
+Derry,15779.0,0.0,0.0,0.5
+Punxsutawney,15780.0,0.0,0.0,0.5
+Punxsutawney,15781.0,0.0,0.0,0.5
+West lebanon,15783.0,0.0,0.0,0.5
+Worthville,15784.0,0.0,0.0,0.5
+Dubois,15801.0,1.0,1.0,1.0
+Benezett,15821.0,0.0,0.0,0.5
+Brockport,15823.0,0.0,0.0,0.5
+Brockway,15824.0,0.0,0.0,0.5
+Brookville,15825.0,0.0,0.0,0.5
+Byrnedale,15827.0,0.0,0.0,0.5
+Clarington,15828.0,0.0,0.0,0.5
+Corsica,15829.0,0.0,0.0,0.5
+Driftwood,15832.0,0.0,0.0,0.5
+Emporium,15834.0,0.0,0.0,0.5
+Falls creek,15840.0,0.0,0.0,0.5
+Force,15841.0,0.0,0.0,0.5
+Johnsonburg,15845.0,1.0,1.0,1.0
+Kersey,15846.0,0.0,0.0,0.5
+Brookville,15847.0,0.0,0.0,0.5
+Luthersburg,15848.0,0.0,0.0,0.5
+Penfield,15849.0,0.0,0.0,0.5
+Reynoldsville,15851.0,0.0,0.0,0.5
+Ridgway,15853.0,1.0,1.0,1.0
+Rockton,15856.0,0.0,0.0,0.5
+St. marys,15857.0,0.0,0.0,0.5
+Sigel,15860.0,0.0,0.0,0.5
+Sinnemahoning,15861.0,0.0,0.0,0.5
+Stump creek,15863.0,0.0,0.0,0.5
+Summerville,15864.0,0.0,0.0,0.5
+Sykesville,15865.0,0.0,0.0,0.5
+Troutville,15866.0,0.0,0.0,0.5
+Weedville,15868.0,0.0,0.0,0.5
+Wilcox,15870.0,0.0,0.0,0.5
+Johnstown,15901.0,1.0,1.0,1.0
+Johnstown,15902.0,1.0,1.0,1.0
+Johnstown,15904.0,3.0,3.0,3.0
+Johnstown,15905.0,2.0,2.0,2.0
+Johnstown,15906.0,0.0,0.0,0.5
+Johnstown,15909.0,0.0,0.0,0.5
+Armagh,15920.0,0.0,0.0,0.5
+Beaverdale,15921.0,0.0,0.0,0.5
+Ebensburg,15922.0,0.0,0.0,0.5
+Bolivar,15923.0,0.0,0.0,0.5
+Cairnbrook,15924.0,0.0,0.0,0.5
+Cassandra,15925.0,0.0,0.0,0.5
+Central city,15926.0,0.0,0.0,0.5
+Colver,15927.0,0.0,0.0,0.5
+Davidsville,15928.0,0.0,0.0,0.5
+Windber,15930.0,0.0,0.0,0.5
+Ebensburg,15931.0,1.0,1.0,1.0
+Hollsopple,15935.0,0.0,0.0,0.5
+Hooversville,15936.0,0.0,0.0,0.5
+Jerome,15937.0,0.0,0.0,0.5
+Lilly,15938.0,0.0,0.0,0.5
+Loretto,15940.0,0.0,0.0,0.5
+Mineral point,15942.0,0.0,0.0,0.5
+Nanty glo,15943.0,1.0,1.0,1.0
+New florence,15944.0,0.0,0.0,0.5
+Portage,15946.0,1.0,1.0,1.0
+Ebensburg,15948.0,0.0,0.0,0.5
+Robinson,15949.0,0.0,0.0,0.5
+St. michael,15951.0,0.0,0.0,0.5
+Salix,15952.0,0.0,0.0,0.5
+Seward,15954.0,0.0,0.0,0.5
+Sidman,15955.0,0.0,0.0,0.5
+South fork,15956.0,0.0,0.0,0.5
+Strongstown,15957.0,0.0,0.0,0.5
+Summerhill,15958.0,0.0,0.0,0.5
+Twin rocks,15960.0,0.0,0.0,0.5
+Vintondale,15961.0,0.0,0.0,0.5
+Wilmore,15962.0,0.0,0.0,0.5
+Windber,15963.0,0.0,0.0,0.5
+Butler,16001.0,5.0,1.0,5.0
+Butler,16002.0,0.0,0.0,0.5
+Boyers,16020.0,0.0,0.0,0.5
+Bruin,16022.0,0.0,0.0,0.5
+Cabot,16023.0,0.0,0.0,0.5
+Callery,16024.0,0.0,0.0,0.5
+Chicora,16025.0,0.0,0.0,0.5
+Connoquenessing,16027.0,0.0,0.0,0.5
+East brady,16028.0,0.0,0.0,0.5
+East butler,16029.0,0.0,0.0,0.5
+Eau claire,16030.0,0.0,0.0,0.5
+Evans city,16033.0,0.0,0.0,0.5
+Fenelton,16034.0,0.0,0.0,0.5
+Slippery rock,16035.0,0.0,0.0,0.5
+Foxburg,16036.0,0.0,0.0,0.5
+Harmony,16037.0,1.0,1.0,1.0
+Harrisville,16038.0,0.0,0.0,0.5
+Hilliards,16040.0,0.0,0.0,0.5
+Karns city,16041.0,0.0,0.0,0.5
+Lyndora,16045.0,0.0,0.0,0.5
+Mars,16046.0,2.0,1.0,2.0
+Petrolia,16048.0,0.0,0.0,0.5
+Parker,16049.0,0.0,0.0,0.5
+Petrolia,16050.0,0.0,0.0,0.5
+Portersville,16051.0,0.0,0.0,0.5
+Prospect,16052.0,0.0,0.0,0.5
+Renfrew,16053.0,0.0,0.0,0.5
+Foxburg,16054.0,0.0,0.0,0.5
+Sarver,16055.0,0.0,0.0,0.5
+Saxonburg,16056.0,0.0,0.0,0.5
+Slippery rock,16057.0,1.0,1.0,1.0
+Valencia,16059.0,0.0,0.0,0.5
+West sunbury,16061.0,0.0,0.0,0.5
+Zelienople,16063.0,0.0,0.0,0.5
+Cranberry twp,16066.0,1.0,1.0,1.0
+New castle,16101.0,1.0,1.0,1.0
+New castle,16102.0,0.0,0.0,0.5
+New castle,16105.0,1.0,1.0,1.0
+Adamsville,16110.0,0.0,0.0,0.5
+Atlantic,16111.0,0.0,0.0,0.5
+Bessemer,16112.0,0.0,0.0,0.5
+Clark,16113.0,0.0,0.0,0.5
+Clarks mills,16114.0,0.0,0.0,0.5
+Darlington,16115.0,0.0,0.0,0.5
+Edinburg,16116.0,0.0,0.0,0.5
+Ellwood city,16117.0,1.0,1.0,1.0
+Enon valley,16120.0,0.0,0.0,0.5
+Farrell,16121.0,1.0,1.0,1.0
+Fombell,16123.0,0.0,0.0,0.5
+Fredonia,16124.0,0.0,0.0,0.5
+Greenville,16125.0,0.0,0.0,0.5
+Grove city,16127.0,0.0,0.0,0.5
+Hadley,16130.0,0.0,0.0,0.5
+Hartstown,16131.0,0.0,0.0,0.5
+Hillsville,16132.0,0.0,0.0,0.5
+Jackson center,16133.0,0.0,0.0,0.5
+Jamestown,16134.0,0.0,0.0,0.5
+Koppel,16136.0,0.0,0.0,0.5
+Mercer,16137.0,0.0,0.0,0.5
+Pulaski township,16140.0,0.0,0.0,0.5
+New galilee,16141.0,0.0,0.0,0.5
+New wilmington,16142.0,0.0,0.0,0.5
+Pulaski township,16143.0,0.0,0.0,0.5
+Sandy lake,16145.0,0.0,0.0,0.5
+Sharon,16146.0,2.0,1.0,2.0
+Hermitage,16148.0,1.0,1.0,1.0
+Sharpsville,16150.0,0.0,0.0,0.5
+Sheakleyville,16151.0,0.0,0.0,0.5
+Stoneboro,16153.0,0.0,0.0,0.5
+Transfer,16154.0,0.0,0.0,0.5
+Pulaski township,16155.0,0.0,0.0,0.5
+Volant,16156.0,0.0,0.0,0.5
+Wampum,16157.0,0.0,0.0,0.5
+West middlesex,16159.0,0.0,0.0,0.5
+West pittsburg,16160.0,0.0,0.0,0.5
+Wheatland,16161.0,0.0,0.0,0.5
+Kittanning,16201.0,0.0,0.0,0.5
+Adrian,16210.0,0.0,0.0,0.5
+Home,16211.0,0.0,0.0,0.5
+Cadogan,16212.0,0.0,0.0,0.5
+Callensburg,16213.0,0.0,0.0,0.5
+Clarion,16214.0,1.0,1.0,1.0
+Cooksburg,16217.0,0.0,0.0,0.5
+Cowansville,16218.0,0.0,0.0,0.5
+Dayton,16222.0,0.0,0.0,0.5
+New bethlehem,16223.0,0.0,0.0,0.5
+Fairmount city,16224.0,0.0,0.0,0.5
+Ford city,16226.0,0.0,0.0,0.5
+Ford cliff,16228.0,0.0,0.0,0.5
+Freeport,16229.0,0.0,0.0,0.5
+Hawthorn,16230.0,0.0,0.0,0.5
+Knox,16232.0,0.0,0.0,0.5
+Leeper,16233.0,0.0,0.0,0.5
+Lucinda,16235.0,0.0,0.0,0.5
+Ford city,16236.0,0.0,0.0,0.5
+Manorville,16238.0,0.0,0.0,0.5
+Marienville,16239.0,0.0,0.0,0.5
+Mayport,16240.0,0.0,0.0,0.5
+New bethlehem,16242.0,1.0,1.0,1.0
+Rural valley,16244.0,0.0,0.0,0.5
+New bethlehem,16245.0,0.0,0.0,0.5
+Home,16246.0,0.0,0.0,0.5
+Rimersburg,16248.0,0.0,0.0,0.5
+Rural valley,16249.0,0.0,0.0,0.5
+Sagamore,16250.0,0.0,0.0,0.5
+Seminole,16253.0,0.0,0.0,0.5
+Shippenville,16254.0,0.0,0.0,0.5
+Sligo,16255.0,0.0,0.0,0.5
+Smicksburg,16256.0,0.0,0.0,0.5
+Strattanville,16258.0,0.0,0.0,0.5
+Templeton,16259.0,0.0,0.0,0.5
+Vowinckel,16260.0,0.0,0.0,0.5
+Worthington,16262.0,0.0,0.0,0.5
+Yatesboro,16263.0,0.0,0.0,0.5
+Oil city,16301.0,1.0,1.0,1.0
+Carlton,16311.0,0.0,0.0,0.5
+Clarendon,16313.0,0.0,0.0,0.5
+Cochranton,16314.0,0.0,0.0,0.5
+Conneaut lake,16316.0,0.0,0.0,0.5
+Cooperstown,16317.0,0.0,0.0,0.5
+Cranberry,16319.0,0.0,0.0,0.5
+Endeavor,16322.0,0.0,0.0,0.5
+Franklin,16323.0,1.0,1.0,1.0
+Fryburg,16326.0,0.0,0.0,0.5
+Guys mills,16327.0,0.0,0.0,0.5
+Hydetown,16328.0,0.0,0.0,0.5
+Irvine,16329.0,0.0,0.0,0.5
+Kossuth,16331.0,0.0,0.0,0.5
+Lickingville,16332.0,0.0,0.0,0.5
+Ludlow,16333.0,0.0,0.0,0.5
+Marble,16334.0,0.0,0.0,0.5
+Meadville,16335.0,2.0,1.0,2.0
+Pittsfield,16340.0,0.0,0.0,0.5
+Pleasantville,16341.0,0.0,0.0,0.5
+Polk,16342.0,0.0,0.0,0.5
+Reno,16343.0,0.0,0.0,0.5
+Rouseville,16344.0,0.0,0.0,0.5
+Russell,16345.0,0.0,0.0,0.5
+Seneca,16346.0,0.0,0.0,0.5
+Sheffield,16347.0,0.0,0.0,0.5
+Sugar grove,16350.0,0.0,0.0,0.5
+Tidioute,16351.0,0.0,0.0,0.5
+Clarendon,16352.0,0.0,0.0,0.5
+Tionesta,16353.0,0.0,0.0,0.5
+Titusville,16354.0,2.0,1.0,2.0
+Townville,16360.0,0.0,0.0,0.5
+Utica,16362.0,0.0,0.0,0.5
+Venus,16364.0,0.0,0.0,0.5
+Warren,16365.0,1.0,1.0,1.0
+Tionesta,16370.0,0.0,0.0,0.5
+Youngsville,16371.0,0.0,0.0,0.5
+Clintonville,16372.0,0.0,0.0,0.5
+Emlenton,16373.0,0.0,0.0,0.5
+Kennerdell,16374.0,0.0,0.0,0.5
+Albion,16401.0,0.0,0.0,0.5
+Bear lake,16402.0,0.0,0.0,0.5
+Cambridge springs,16403.0,0.0,0.0,0.5
+Centerville,16404.0,0.0,0.0,0.5
+Columbus,16405.0,0.0,0.0,0.5
+Conneautville,16406.0,0.0,0.0,0.5
+Corry,16407.0,2.0,1.0,2.0
+Cranesville,16410.0,0.0,0.0,0.5
+East springfield,16411.0,0.0,0.0,0.5
+Edinboro,16412.0,1.0,1.0,1.0
+Fairview,16415.0,0.0,0.0,0.5
+Garland,16416.0,0.0,0.0,0.5
+Girard,16417.0,1.0,1.0,1.0
+Grand valley,16420.0,0.0,0.0,0.5
+Harborcreek,16421.0,0.0,0.0,0.5
+Harmonsburg,16422.0,0.0,0.0,0.5
+Lake city,16423.0,0.0,0.0,0.5
+Linesville,16424.0,0.0,0.0,0.5
+Mckean,16426.0,0.0,0.0,0.5
+Waterford,16427.0,0.0,0.0,0.5
+North-east,16428.0,1.0,1.0,1.0
+Saegertown,16433.0,0.0,0.0,0.5
+Spartansburg,16434.0,0.0,0.0,0.5
+Springboro,16435.0,0.0,0.0,0.5
+Spring creek,16436.0,0.0,0.0,0.5
+Union city,16438.0,0.0,0.0,0.5
+Venango,16440.0,0.0,0.0,0.5
+Waterford,16441.0,0.0,0.0,0.5
+Wattsburg,16442.0,0.0,0.0,0.5
+West springfield,16443.0,0.0,0.0,0.5
+Erie,16501.0,1.0,1.0,1.0
+Erie,16502.0,1.0,1.0,1.0
+Erie,16503.0,1.0,1.0,1.0
+Erie,16504.0,2.0,2.0,2.0
+Erie,16505.0,2.0,2.0,2.0
+Erie,16506.0,1.0,1.0,1.0
+Erie,16507.0,2.0,2.0,2.0
+Erie,16508.0,2.0,2.0,2.0
+Erie,16509.0,2.0,2.0,2.0
+Erie,16510.0,1.0,1.0,1.0
+Erie,16511.0,0.0,0.0,0.5
+Altoona,16601.0,2.0,1.0,2.0
+Altoona,16602.0,3.0,2.0,3.0
+Alexandria,16611.0,0.0,0.0,0.5
+Ashville,16613.0,0.0,0.0,0.5
+Beccaria,16616.0,0.0,0.0,0.5
+Bellwood,16617.0,0.0,0.0,0.5
+Blandburg,16619.0,0.0,0.0,0.5
+Brisbin,16620.0,0.0,0.0,0.5
+Broad top city,16621.0,0.0,0.0,0.5
+Calvin,16622.0,0.0,0.0,0.5
+Cassville,16623.0,0.0,0.0,0.5
+Altoona,16624.0,0.0,0.0,0.5
+Claysburg,16625.0,0.0,0.0,0.5
+Coalport,16627.0,0.0,0.0,0.5
+Cresson,16630.0,0.0,0.0,0.5
+Defiance,16633.0,0.0,0.0,0.5
+Dudley,16634.0,0.0,0.0,0.5
+Duncansville,16635.0,0.0,0.0,0.5
+Dysart,16636.0,0.0,0.0,0.5
+East freedom,16637.0,0.0,0.0,0.5
+Entriken,16638.0,0.0,0.0,0.5
+Fallentimber,16639.0,0.0,0.0,0.5
+Flinton,16640.0,0.0,0.0,0.5
+Gallitzin,16641.0,0.0,0.0,0.5
+Glen hope,16645.0,0.0,0.0,0.5
+Hastings,16646.0,0.0,0.0,0.5
+Hesston,16647.0,0.0,0.0,0.5
+Hollidaysburg,16648.0,0.0,0.0,0.5
+Hopewell,16650.0,0.0,0.0,0.5
+Houtzdale,16651.0,0.0,0.0,0.5
+Huntingdon,16652.0,0.0,0.0,0.5
+Imler,16655.0,0.0,0.0,0.5
+Irvona,16656.0,0.0,0.0,0.5
+James creek,16657.0,0.0,0.0,0.5
+Loysburg,16659.0,0.0,0.0,0.5
+Madera,16661.0,0.0,0.0,0.5
+Martinsburg,16662.0,0.0,0.0,0.5
+New enterprise,16664.0,0.0,0.0,0.5
+Newry,16665.0,0.0,0.0,0.5
+Osceola mills,16666.0,0.0,0.0,0.5
+Osterburg,16667.0,0.0,0.0,0.5
+Patton,16668.0,0.0,0.0,0.5
+Petersburg,16669.0,0.0,0.0,0.5
+Ramey,16671.0,0.0,0.0,0.5
+Saxton,16672.0,0.0,0.0,0.5
+Roaring spring,16673.0,0.0,0.0,0.5
+Robertsdale,16674.0,0.0,0.0,0.5
+Sandy ridge,16677.0,0.0,0.0,0.5
+Saxton,16678.0,0.0,0.0,0.5
+Six mile run,16679.0,0.0,0.0,0.5
+Smithmill,16680.0,0.0,0.0,0.5
+Spruce creek,16683.0,0.0,0.0,0.5
+Todd township,16685.0,0.0,0.0,0.5
+Tyrone,16686.0,0.0,0.0,0.5
+Waterfall,16689.0,0.0,0.0,0.5
+Wells tannery,16691.0,0.0,0.0,0.5
+Westover,16692.0,0.0,0.0,0.5
+Williamsburg,16693.0,0.0,0.0,0.5
+Wood,16694.0,0.0,0.0,0.5
+Woodbury,16695.0,0.0,0.0,0.5
+Bradford,16701.0,1.0,1.0,1.0
+Austin,16720.0,0.0,0.0,0.5
+Crosby,16724.0,0.0,0.0,0.5
+Bradford,16725.0,0.0,0.0,0.5
+Cyclone,16726.0,0.0,0.0,0.5
+Derrick city,16727.0,0.0,0.0,0.5
+Kane,16728.0,0.0,0.0,0.5
+Duke center,16729.0,0.0,0.0,0.5
+Smethport,16730.0,0.0,0.0,0.5
+Eldred,16731.0,0.0,0.0,0.5
+Gifford,16732.0,0.0,0.0,0.5
+Smethport,16733.0,0.0,0.0,0.5
+James city,16734.0,0.0,0.0,0.5
+Kane,16735.0,0.0,0.0,0.5
+Lewis run,16738.0,0.0,0.0,0.5
+Mount jewett,16740.0,0.0,0.0,0.5
+Port allegany,16743.0,0.0,0.0,0.5
+Rew,16744.0,0.0,0.0,0.5
+Rixford,16745.0,0.0,0.0,0.5
+Roulette,16746.0,0.0,0.0,0.5
+Shinglehouse,16748.0,0.0,0.0,0.5
+Smethport,16749.0,0.0,0.0,0.5
+Turtlepoint,16750.0,0.0,0.0,0.5
+State college,16801.0,2.0,2.0,2.0
+State college,16803.0,1.0,1.0,1.0
+Aaronsburg,16820.0,0.0,0.0,0.5
+Allport,16821.0,0.0,0.0,0.5
+Beech creek,16822.0,0.0,0.0,0.5
+Bellefonte,16823.0,1.0,1.0,1.0
+Bigler,16825.0,0.0,0.0,0.5
+Howard,16826.0,0.0,0.0,0.5
+Boalsburg,16827.0,0.0,0.0,0.5
+Centre hall,16828.0,0.0,0.0,0.5
+Clarence,16829.0,0.0,0.0,0.5
+Clearfield,16830.0,2.0,1.0,2.0
+Coburn,16832.0,0.0,0.0,0.5
+Curwensville,16833.0,0.0,0.0,0.5
+Grassflat,16834.0,0.0,0.0,0.5
+Unionville,16835.0,0.0,0.0,0.5
+Frenchville,16836.0,0.0,0.0,0.5
+Glen richey,16837.0,0.0,0.0,0.5
+Grampian,16838.0,0.0,0.0,0.5
+Grassflat,16839.0,0.0,0.0,0.5
+Hawk run,16840.0,0.0,0.0,0.5
+Howard,16841.0,0.0,0.0,0.5
+Hyde,16843.0,0.0,0.0,0.5
+Julian,16844.0,0.0,0.0,0.5
+Karthaus,16845.0,0.0,0.0,0.5
+Kylertown,16847.0,0.0,0.0,0.5
+"Lamar, pennsylvania",16848.0,0.0,0.0,0.5
+Lanse,16849.0,0.0,0.0,0.5
+State college,16851.0,0.0,0.0,0.5
+Madisonburg,16852.0,0.0,0.0,0.5
+Milesburg,16853.0,0.0,0.0,0.5
+Millheim,16854.0,0.0,0.0,0.5
+Morrisdale,16858.0,0.0,0.0,0.5
+Moshannon,16859.0,0.0,0.0,0.5
+Munson,16860.0,0.0,0.0,0.5
+New millport,16861.0,0.0,0.0,0.5
+Olanta,16863.0,0.0,0.0,0.5
+Pennsylvania furnace,16865.0,0.0,0.0,0.5
+Philipsburg,16866.0,1.0,1.0,1.0
+Pine grove mills,16868.0,0.0,0.0,0.5
+Port matilda,16870.0,0.0,0.0,0.5
+Pottersdale,16871.0,0.0,0.0,0.5
+Rebersburg,16872.0,0.0,0.0,0.5
+Snow shoe,16874.0,0.0,0.0,0.5
+Spring mills,16875.0,0.0,0.0,0.5
+Wallaceton,16876.0,0.0,0.0,0.5
+Warriors mark,16877.0,0.0,0.0,0.5
+West decatur,16878.0,0.0,0.0,0.5
+Winburne,16879.0,0.0,0.0,0.5
+Woodland,16881.0,0.0,0.0,0.5
+Woodward,16882.0,0.0,0.0,0.5
+Wellsboro,16901.0,2.0,1.0,2.0
+Blossburg,16911.0,0.0,0.0,0.5
+Blossburg,16912.0,0.0,0.0,0.5
+Columbia cross roads,16914.0,0.0,0.0,0.5
+Coudersport,16915.0,0.0,0.0,0.5
+Covington township,16917.0,0.0,0.0,0.5
+Elkland,16920.0,0.0,0.0,0.5
+Gaines township,16921.0,0.0,0.0,0.5
+Galeton,16922.0,0.0,0.0,0.5
+Genesee township,16923.0,0.0,0.0,0.5
+Gillett,16925.0,0.0,0.0,0.5
+Granville summit,16926.0,0.0,0.0,0.5
+Harrison valley,16927.0,0.0,0.0,0.5
+Knoxville,16928.0,0.0,0.0,0.5
+Lawrenceville,16929.0,0.0,0.0,0.5
+Liberty,16930.0,0.0,0.0,0.5
+Mainesburg,16932.0,0.0,0.0,0.5
+Mansfield,16933.0,1.0,1.0,1.0
+Middlebury center,16935.0,0.0,0.0,0.5
+Millerton,16936.0,0.0,0.0,0.5
+Mills,16937.0,0.0,0.0,0.5
+Morris,16938.0,0.0,0.0,0.5
+Morris run,16939.0,0.0,0.0,0.5
+Nelson township,16940.0,0.0,0.0,0.5
+Genesee township,16941.0,0.0,0.0,0.5
+Osceola township,16942.0,0.0,0.0,0.5
+Sabinsville,16943.0,0.0,0.0,0.5
+Tioga,16946.0,0.0,0.0,0.5
+Troy,16947.0,0.0,0.0,0.5
+Ulysses,16948.0,0.0,0.0,0.5
+Westfield,16950.0,0.0,0.0,0.5
+Allensville,17002.0,0.0,0.0,0.5
+Annville,17003.0,0.0,0.0,0.5
+Belleville,17004.0,0.0,0.0,0.5
+Berrysburg,17005.0,0.0,0.0,0.5
+Blain,17006.0,0.0,0.0,0.5
+Boiling springs,17007.0,0.0,0.0,0.5
+Burnham,17009.0,1.0,1.0,1.0
+Camp-hill,17011.0,1.0,1.0,1.0
+Carlisle,17013.0,5.0,1.0,5.0
+Carlisle,17015.0,0.0,0.0,0.5
+Lebanon,17016.0,0.0,0.0,0.5
+Dalmatia,17017.0,0.0,0.0,0.5
+Dauphin,17018.0,0.0,0.0,0.5
+Dillsburg,17019.0,1.0,1.0,1.0
+Duncannon,17020.0,0.0,0.0,0.5
+East waterford,17021.0,0.0,0.0,0.5
+Elizabethtown,17022.0,1.0,1.0,1.0
+Elizabethville,17023.0,1.0,1.0,1.0
+Elliottsburg,17024.0,0.0,0.0,0.5
+Enola,17025.0,1.0,1.0,1.0
+Fredericksburg,17026.0,0.0,0.0,0.5
+Mechanicsburg,17027.0,0.0,0.0,0.5
+Grantville,17028.0,0.0,0.0,0.5
+Gratz,17030.0,0.0,0.0,0.5
+Halifax,17032.0,1.0,1.0,1.0
+Hershey,17033.0,2.0,1.0,2.0
+Highspire,17034.0,0.0,0.0,0.5
+Honey grove,17035.0,0.0,0.0,0.5
+Hummelstown,17036.0,1.0,1.0,1.0
+Ickesburg,17037.0,0.0,0.0,0.5
+Jonestown,17038.0,0.0,0.0,0.5
+Landisburg,17040.0,0.0,0.0,0.5
+Palmyra,17041.0,0.0,0.0,0.5
+Lebanon,17042.0,5.0,2.0,5.0
+Lemoyne,17043.0,1.0,1.0,1.0
+Lewistown,17044.0,1.0,1.0,1.0
+Liverpool,17045.0,0.0,0.0,0.5
+Lebanon,17046.0,1.0,1.0,1.0
+Loysville,17047.0,0.0,0.0,0.5
+Lykens,17048.0,0.0,0.0,0.5
+Mcalisterville,17049.0,0.0,0.0,0.5
+Mechanicsburg,17050.0,6.0,2.0,6.0
+Mcveytown,17051.0,0.0,0.0,0.5
+Mapleton,17052.0,0.0,0.0,0.5
+Marysville,17053.0,0.0,0.0,0.5
+Mechanicsburg,17055.0,3.0,1.0,3.0
+Mifflintown,17056.0,0.0,0.0,0.5
+Middletown,17057.0,2.0,1.0,2.0
+Mifflin,17058.0,0.0,0.0,0.5
+Mifflintown,17059.0,0.0,0.0,0.5
+Mill creek,17060.0,0.0,0.0,0.5
+Millersburg,17061.0,1.0,1.0,1.0
+Millerstown,17062.0,0.0,0.0,0.5
+Milroy,17063.0,0.0,0.0,0.5
+Mount gretna,17064.0,0.0,0.0,0.5
+Mount holly springs,17065.0,0.0,0.0,0.5
+Mount union,17066.0,0.0,0.0,0.5
+Myerstown,17067.0,0.0,0.0,0.5
+New bloomfield,17068.0,0.0,0.0,0.5
+New buffalo,17069.0,0.0,0.0,0.5
+New-cumberland,17070.0,1.0,1.0,1.0
+New germantown,17071.0,0.0,0.0,0.5
+Mechanicsburg,17072.0,0.0,0.0,0.5
+Newmanstown,17073.0,0.0,0.0,0.5
+Newport,17074.0,0.0,0.0,0.5
+Mount union,17075.0,0.0,0.0,0.5
+Palmyra,17078.0,1.0,1.0,1.0
+Pillow,17080.0,0.0,0.0,0.5
+Carlisle,17081.0,0.0,0.0,0.5
+Port royal,17082.0,0.0,0.0,0.5
+Lebanon,17083.0,0.0,0.0,0.5
+Reedsville,17084.0,0.0,0.0,0.5
+Richfield,17086.0,0.0,0.0,0.5
+Richland,17087.0,0.0,0.0,0.5
+Schaefferstown,17088.0,0.0,0.0,0.5
+Shermans dale,17090.0,0.0,0.0,0.5
+Summerdale,17093.0,0.0,0.0,0.5
+Thompsontown,17094.0,0.0,0.0,0.5
+Wiconisco township,17097.0,0.0,0.0,0.5
+Williamstown,17098.0,0.0,0.0,0.5
+Yeagertown,17099.0,0.0,0.0,0.5
+Harrisburg,17101.0,1.0,1.0,1.0
+Harrisburg,17102.0,0.0,0.0,0.5
+Harrisburg,17103.0,0.0,0.0,0.5
+Harrisburg,17104.0,2.0,2.0,2.0
+Harrisburg,17109.0,3.0,3.0,3.0
+Harrisburg,17110.0,3.0,3.0,3.0
+Harrisburg,17111.0,4.0,4.0,4.0
+Harrisburg,17112.0,3.0,3.0,3.0
+Harrisburg,17113.0,0.0,0.0,0.5
+Chambersburg,17201.0,3.0,1.0,3.0
+Chambersburg,17202.0,0.0,0.0,0.5
+Amberson,17210.0,0.0,0.0,0.5
+Artemas,17211.0,0.0,0.0,0.5
+Big cove tannery,17212.0,0.0,0.0,0.5
+Blairs mills,17213.0,0.0,0.0,0.5
+Blue ridge summit,17214.0,0.0,0.0,0.5
+Burnt cabins,17215.0,0.0,0.0,0.5
+Concord,17217.0,0.0,0.0,0.5
+Doylesburg,17219.0,0.0,0.0,0.5
+Dry run,17220.0,0.0,0.0,0.5
+Fannettsburg,17221.0,0.0,0.0,0.5
+Fayetteville,17222.0,0.0,0.0,0.5
+Fort littleton,17223.0,0.0,0.0,0.5
+Fort loudon,17224.0,0.0,0.0,0.5
+Greencastle,17225.0,1.0,1.0,1.0
+Harrisonville,17228.0,0.0,0.0,0.5
+Hustontown,17229.0,0.0,0.0,0.5
+Mcconnellsburg,17233.0,0.0,0.0,0.5
+Chambersburg,17235.0,0.0,0.0,0.5
+Mercersburg,17236.0,0.0,0.0,0.5
+Mont alto,17237.0,0.0,0.0,0.5
+Needmore,17238.0,0.0,0.0,0.5
+Neelyton,17239.0,0.0,0.0,0.5
+Newburg,17240.0,0.0,0.0,0.5
+Newville,17241.0,0.0,0.0,0.5
+Orbisonia,17243.0,0.0,0.0,0.5
+Orrstown,17244.0,0.0,0.0,0.5
+Pleasant hall,17246.0,0.0,0.0,0.5
+Waynesboro,17247.0,0.0,0.0,0.5
+Rockhill furnace,17249.0,0.0,0.0,0.5
+Orrstown,17251.0,0.0,0.0,0.5
+St. thomas,17252.0,0.0,0.0,0.5
+Three springs,17253.0,0.0,0.0,0.5
+Shade gap,17255.0,0.0,0.0,0.5
+Shippensburg,17257.0,1.0,1.0,1.0
+Shirleysburg,17260.0,0.0,0.0,0.5
+Spring run,17262.0,0.0,0.0,0.5
+State line,17263.0,0.0,0.0,0.5
+Three springs,17264.0,0.0,0.0,0.5
+Upperstrasburg,17265.0,0.0,0.0,0.5
+Walnut bottom,17266.0,0.0,0.0,0.5
+Warfordsburg,17267.0,0.0,0.0,0.5
+Waynesboro,17268.0,1.0,1.0,1.0
+Willow hill,17271.0,0.0,0.0,0.5
+Waynesboro,17272.0,0.0,0.0,0.5
+Abbottstown,17301.0,0.0,0.0,0.5
+Airville,17302.0,0.0,0.0,0.5
+Aspers,17304.0,0.0,0.0,0.5
+Bendersville,17306.0,0.0,0.0,0.5
+Biglerville,17307.0,0.0,0.0,0.5
+Brogue,17309.0,0.0,0.0,0.5
+Spring grove,17311.0,0.0,0.0,0.5
+Dallastown,17313.0,0.0,0.0,0.5
+Delta,17314.0,0.0,0.0,0.5
+Dover,17315.0,1.0,1.0,1.0
+East berlin,17316.0,0.0,0.0,0.5
+Wrightsville,17317.0,0.0,0.0,0.5
+Emigsville,17318.0,0.0,0.0,0.5
+Etters,17319.0,0.0,0.0,0.5
+Fairfield,17320.0,0.0,0.0,0.5
+Fawn grove,17321.0,0.0,0.0,0.5
+Felton,17322.0,0.0,0.0,0.5
+Gardners,17324.0,0.0,0.0,0.5
+Gettysburg,17325.0,1.0,1.0,1.0
+Glen rock,17327.0,0.0,0.0,0.5
+Glenville,17329.0,0.0,0.0,0.5
+Hanover,17331.0,5.0,1.0,5.0
+Lewisberry,17339.0,0.0,0.0,0.5
+Littlestown,17340.0,0.0,0.0,0.5
+Mcsherrystown,17344.0,0.0,0.0,0.5
+Manchester,17345.0,1.0,1.0,1.0
+Mount wolf,17347.0,0.0,0.0,0.5
+New freedom,17349.0,0.0,0.0,0.5
+New oxford,17350.0,0.0,0.0,0.5
+New park,17352.0,0.0,0.0,0.5
+Orrtanna,17353.0,0.0,0.0,0.5
+Railroad,17355.0,0.0,0.0,0.5
+Red lion,17356.0,2.0,1.0,2.0
+Seven valleys,17360.0,0.0,0.0,0.5
+Shrewsbury,17361.0,2.0,1.0,2.0
+Spring grove,17362.0,0.0,0.0,0.5
+Stewartstown,17363.0,1.0,1.0,1.0
+Thomasville,17364.0,0.0,0.0,0.5
+Wellsville,17365.0,0.0,0.0,0.5
+Windsor,17366.0,0.0,0.0,0.5
+Wrightsville,17368.0,0.0,0.0,0.5
+York haven,17370.0,0.0,0.0,0.5
+York new salem,17371.0,0.0,0.0,0.5
+York springs,17372.0,0.0,0.0,0.5
+York,17401.0,1.0,1.0,1.0
+York,17402.0,3.0,3.0,3.0
+York,17403.0,2.0,2.0,2.0
+York,17404.0,3.0,3.0,3.0
+York,17406.0,0.0,0.0,0.5
+Jacobus,17407.0,0.0,0.0,0.5
+York,17408.0,1.0,1.0,1.0
+Akron,17501.0,0.0,0.0,0.5
+Bainbridge,17502.0,0.0,0.0,0.5
+Bird-in-hand,17505.0,0.0,0.0,0.5
+Brownstown,17508.0,0.0,0.0,0.5
+Christiana,17509.0,0.0,0.0,0.5
+Columbia,17512.0,2.0,1.0,2.0
+Conestoga township,17516.0,0.0,0.0,0.5
+Denver,17517.0,0.0,0.0,0.5
+Drumore township,17518.0,0.0,0.0,0.5
+East earl township,17519.0,0.0,0.0,0.5
+East petersburg,17520.0,0.0,0.0,0.5
+Ephrata,17522.0,1.0,1.0,1.0
+Gap,17527.0,0.0,0.0,0.5
+Gordonville,17529.0,0.0,0.0,0.5
+Holtwood,17532.0,0.0,0.0,0.5
+Kinzers,17535.0,0.0,0.0,0.5
+Kirkwood,17536.0,0.0,0.0,0.5
+Landisville,17538.0,1.0,1.0,1.0
+Leola,17540.0,0.0,0.0,0.5
+Lititz,17543.0,3.0,1.0,3.0
+Manheim,17545.0,1.0,1.0,1.0
+Marietta,17547.0,0.0,0.0,0.5
+Maytown,17550.0,0.0,0.0,0.5
+Millersville,17551.0,0.0,0.0,0.5
+Mount-joy,17552.0,1.0,1.0,1.0
+Mountville,17554.0,0.0,0.0,0.5
+Narvon,17555.0,0.0,0.0,0.5
+New-holland,17557.0,1.0,1.0,1.0
+New providence,17560.0,0.0,0.0,0.5
+Paradise,17562.0,0.0,0.0,0.5
+Peach bottom,17563.0,0.0,0.0,0.5
+Pequea,17565.0,0.0,0.0,0.5
+Quarryville,17566.0,1.0,1.0,1.0
+Reinholds,17569.0,0.0,0.0,0.5
+Gordonville,17572.0,0.0,0.0,0.5
+Stevens,17578.0,0.0,0.0,0.5
+Strasburg,17579.0,0.0,0.0,0.5
+Terre hill,17581.0,0.0,0.0,0.5
+Washington boro,17582.0,0.0,0.0,0.5
+Willow street,17584.0,1.0,1.0,1.0
+Lancaster,17601.0,5.0,3.0,5.0
+Lancaster,17602.0,4.0,2.0,4.0
+Lancaster,17603.0,4.0,2.0,4.0
+Lititz,17606.0,0.0,0.0,0.5
+Williamsport,17701.0,4.0,1.0,4.0
+South-williamsport,17702.0,1.0,1.0,1.0
+Avis,17721.0,0.0,0.0,0.5
+Cammal,17723.0,0.0,0.0,0.5
+Canton,17724.0,0.0,0.0,0.5
+Cedar run,17727.0,0.0,0.0,0.5
+Williamsport,17728.0,0.0,0.0,0.5
+Cross fork,17729.0,0.0,0.0,0.5
+Eagles mere,17731.0,0.0,0.0,0.5
+Hughesville,17737.0,0.0,0.0,0.5
+Jersey-shore,17740.0,1.0,1.0,1.0
+Lairdsville,17742.0,0.0,0.0,0.5
+Linden,17744.0,0.0,0.0,0.5
+Lock-haven,17745.0,1.0,1.0,1.0
+Loganton,17747.0,0.0,0.0,0.5
+Lock haven,17748.0,0.0,0.0,0.5
+Watsontown,17749.0,0.0,0.0,0.5
+Mill hall,17750.0,0.0,0.0,0.5
+Mill hall,17751.0,0.0,0.0,0.5
+Montgomery,17752.0,0.0,0.0,0.5
+Montoursville,17754.0,0.0,0.0,0.5
+Muncy,17756.0,2.0,1.0,2.0
+Muncy valley,17758.0,0.0,0.0,0.5
+North bend,17760.0,0.0,0.0,0.5
+Hughesville,17762.0,0.0,0.0,0.5
+Ralston,17763.0,0.0,0.0,0.5
+Renovo,17764.0,0.0,0.0,0.5
+Roaring branch,17765.0,0.0,0.0,0.5
+Salona,17767.0,0.0,0.0,0.5
+Shunk,17768.0,0.0,0.0,0.5
+Trout run,17771.0,0.0,0.0,0.5
+Turbotville,17772.0,0.0,0.0,0.5
+Unityville,17774.0,0.0,0.0,0.5
+Waterville,17776.0,0.0,0.0,0.5
+Watsontown,17777.0,0.0,0.0,0.5
+Westport,17778.0,0.0,0.0,0.5
+Sunbury,17801.0,1.0,1.0,1.0
+Allenwood,17810.0,0.0,0.0,0.5
+Beaver springs,17812.0,0.0,0.0,0.5
+Beavertown,17813.0,0.0,0.0,0.5
+Benton,17814.0,0.0,0.0,0.5
+Bloomsburg,17815.0,2.0,1.0,2.0
+Catawissa,17820.0,0.0,0.0,0.5
+Danville,17821.0,1.0,1.0,1.0
+Dornsife,17823.0,0.0,0.0,0.5
+Elysburg,17824.0,0.0,0.0,0.5
+Freeburg,17827.0,0.0,0.0,0.5
+Hartleton,17829.0,0.0,0.0,0.5
+Herndon,17830.0,0.0,0.0,0.5
+Marion heights,17832.0,0.0,0.0,0.5
+Kulpmont,17834.0,0.0,0.0,0.5
+Laurelton,17835.0,0.0,0.0,0.5
+Leck kill,17836.0,0.0,0.0,0.5
+Lewisburg,17837.0,1.0,1.0,1.0
+Locust gap,17840.0,0.0,0.0,0.5
+Mcclure,17841.0,0.0,0.0,0.5
+Middleburg,17842.0,0.0,0.0,0.5
+Mifflinburg,17844.0,1.0,1.0,1.0
+Millmont,17845.0,0.0,0.0,0.5
+Millville,17846.0,0.0,0.0,0.5
+Milton,17847.0,1.0,1.0,1.0
+Montandon,17850.0,0.0,0.0,0.5
+Mount-carmel,17851.0,1.0,1.0,1.0
+Mount pleasant mills,17853.0,0.0,0.0,0.5
+New berlin,17855.0,0.0,0.0,0.5
+New columbia,17856.0,0.0,0.0,0.5
+Northumberland,17857.0,1.0,1.0,1.0
+Orangeville,17859.0,0.0,0.0,0.5
+Paxinos,17860.0,0.0,0.0,0.5
+Middleburg,17861.0,0.0,0.0,0.5
+Middleburg,17862.0,0.0,0.0,0.5
+Port trevorton,17864.0,0.0,0.0,0.5
+Milton,17865.0,0.0,0.0,0.5
+Coal run,17866.0,0.0,0.0,0.5
+Rebuck,17867.0,0.0,0.0,0.5
+Riverside,17868.0,0.0,0.0,0.5
+Selinsgrove,17870.0,2.0,1.0,2.0
+Shamokin,17872.0,2.0,1.0,2.0
+Shamokin dam,17876.0,0.0,0.0,0.5
+Stillwater,17878.0,0.0,0.0,0.5
+Swengel,17880.0,0.0,0.0,0.5
+Trevorton,17881.0,0.0,0.0,0.5
+Danville,17884.0,0.0,0.0,0.5
+Weikert,17885.0,0.0,0.0,0.5
+West milton,17886.0,0.0,0.0,0.5
+White deer,17887.0,0.0,0.0,0.5
+Wilburton,17888.0,0.0,0.0,0.5
+Winfield,17889.0,0.0,0.0,0.5
+Pottsville,17901.0,4.0,1.0,4.0
+Ashland,17920.0,0.0,0.0,0.5
+Ashland,17921.0,1.0,1.0,1.0
+Auburn,17922.0,0.0,0.0,0.5
+Branchdale,17923.0,0.0,0.0,0.5
+Brockton,17925.0,0.0,0.0,0.5
+Cressona,17929.0,0.0,0.0,0.5
+Cumbola,17930.0,0.0,0.0,0.5
+Frackville,17931.0,1.0,1.0,1.0
+Gilberton,17934.0,0.0,0.0,0.5
+Girardville,17935.0,0.0,0.0,0.5
+Gordon,17936.0,0.0,0.0,0.5
+Hegins,17938.0,0.0,0.0,0.5
+Klingerstown,17941.0,0.0,0.0,0.5
+Ashland,17943.0,0.0,0.0,0.5
+Pottsville,17944.0,0.0,0.0,0.5
+Ashland,17945.0,0.0,0.0,0.5
+Girardville,17946.0,0.0,0.0,0.5
+Mahanoy city,17948.0,0.0,0.0,0.5
+Mahanoy plane,17949.0,0.0,0.0,0.5
+Pottsville,17951.0,0.0,0.0,0.5
+Tuscarora township,17952.0,0.0,0.0,0.5
+Middleport,17953.0,0.0,0.0,0.5
+Minersville,17954.0,0.0,0.0,0.5
+Muir,17957.0,0.0,0.0,0.5
+New philadelphia,17959.0,0.0,0.0,0.5
+New ringgold,17960.0,0.0,0.0,0.5
+Orwigsburg,17961.0,0.0,0.0,0.5
+Pine grove,17963.0,0.0,0.0,0.5
+Pitman,17964.0,0.0,0.0,0.5
+Port carbon,17965.0,0.0,0.0,0.5
+Ringtown,17967.0,0.0,0.0,0.5
+Sacramento,17968.0,0.0,0.0,0.5
+St. clair,17970.0,0.0,0.0,0.5
+Schuylkill haven,17972.0,0.0,0.0,0.5
+Seltzer,17974.0,0.0,0.0,0.5
+Shenandoah,17976.0,1.0,1.0,1.0
+Spring glen,17978.0,0.0,0.0,0.5
+Schuylkill haven,17979.0,0.0,0.0,0.5
+Tower city,17980.0,0.0,0.0,0.5
+Tremont,17981.0,0.0,0.0,0.5
+Tuscarora township,17982.0,0.0,0.0,0.5
+Valley view,17983.0,0.0,0.0,0.5
+Zion grove,17985.0,0.0,0.0,0.5
+Alburtis,18011.0,0.0,0.0,0.5
+Bangor,18013.0,1.0,1.0,1.0
+Bath,18014.0,0.0,0.0,0.5
+Bethlehem,18015.0,2.0,1.0,2.0
+Bethlehem,18017.0,3.0,2.0,3.0
+Bethlehem,18018.0,4.0,3.0,4.0
+Bethlehem,18020.0,0.0,0.0,0.5
+Palmerton,18030.0,0.0,0.0,0.5
+Breinigsville,18031.0,0.0,0.0,0.5
+Catasauqua,18032.0,0.0,0.0,0.5
+Center valley,18034.0,0.0,0.0,0.5
+Coopersburg,18036.0,1.0,1.0,1.0
+Coplay,18037.0,0.0,0.0,0.5
+Danielsville,18038.0,0.0,0.0,0.5
+Easton,18040.0,1.0,1.0,1.0
+East greenville,18041.0,0.0,0.0,0.5
+Easton,18042.0,3.0,2.0,3.0
+Easton,18045.0,4.0,3.0,4.0
+Emmaus,18049.0,1.0,1.0,1.0
+Fogelsville,18051.0,0.0,0.0,0.5
+Whitehall,18052.0,1.0,1.0,1.0
+Germansville,18053.0,0.0,0.0,0.5
+Green lane,18054.0,0.0,0.0,0.5
+Hellertown,18055.0,2.0,1.0,2.0
+Hereford township,18056.0,0.0,0.0,0.5
+Effort,18058.0,0.0,0.0,0.5
+Laurys station,18059.0,0.0,0.0,0.5
+Macungie,18062.0,1.0,1.0,1.0
+Martins creek,18063.0,0.0,0.0,0.5
+Nazareth,18064.0,1.0,1.0,1.0
+New tripoli,18066.0,0.0,0.0,0.5
+Northampton,18067.0,1.0,1.0,1.0
+Orefield,18069.0,0.0,0.0,0.5
+Palm,18070.0,0.0,0.0,0.5
+Palmerton,18071.0,1.0,1.0,1.0
+Pen argyl,18072.0,0.0,0.0,0.5
+Pennsburg,18073.0,2.0,1.0,2.0
+Perkiomenville,18074.0,0.0,0.0,0.5
+Red hill,18076.0,0.0,0.0,0.5
+Riegelsville,18077.0,0.0,0.0,0.5
+Schnecksville,18078.0,1.0,1.0,1.0
+Slatington,18080.0,0.0,0.0,0.5
+Hellertown,18081.0,0.0,0.0,0.5
+Stockertown,18083.0,0.0,0.0,0.5
+Tatamy,18085.0,0.0,0.0,0.5
+Walnutport,18086.0,0.0,0.0,0.5
+Trexlertown,18087.0,0.0,0.0,0.5
+Walnutport,18088.0,1.0,1.0,1.0
+Wind-gap,18091.0,1.0,1.0,1.0
+Zionsville,18092.0,0.0,0.0,0.5
+Allentown,18101.0,2.0,2.0,2.0
+Allentown,18102.0,1.0,1.0,1.0
+Allentown,18103.0,4.0,4.0,4.0
+Allentown,18104.0,4.0,4.0,4.0
+Allentown,18106.0,3.0,3.0,3.0
+Allentown,18109.0,2.0,2.0,2.0
+Hazleton,18201.0,2.0,1.0,2.0
+Hazle-township,18202.0,1.0,1.0,1.0
+Albrightsville,18210.0,0.0,0.0,0.5
+Andreas,18211.0,0.0,0.0,0.5
+Lehighton,18212.0,0.0,0.0,0.5
+Barnesville,18214.0,0.0,0.0,0.5
+Beaver meadows,18216.0,0.0,0.0,0.5
+Coaldale,18218.0,0.0,0.0,0.5
+Conyngham,18219.0,0.0,0.0,0.5
+Delano township,18220.0,0.0,0.0,0.5
+Freeland,18221.0,0.0,0.0,0.5
+Drums,18222.0,0.0,0.0,0.5
+Freeland,18224.0,1.0,1.0,1.0
+Jim thorpe,18229.0,0.0,0.0,0.5
+Junedale,18230.0,0.0,0.0,0.5
+Mcadoo,18231.0,0.0,0.0,0.5
+Lansford,18232.0,1.0,1.0,1.0
+Lehighton,18235.0,2.0,1.0,2.0
+Mcadoo,18237.0,0.0,0.0,0.5
+Nesquehoning,18240.0,1.0,1.0,1.0
+Nuremberg,18241.0,0.0,0.0,0.5
+Hazleton,18242.0,0.0,0.0,0.5
+Palmerton,18244.0,0.0,0.0,0.5
+Tamaqua,18245.0,0.0,0.0,0.5
+Rock glen,18246.0,0.0,0.0,0.5
+Sheppton,18248.0,0.0,0.0,0.5
+Sugarloaf,18249.0,0.0,0.0,0.5
+Summit hill,18250.0,0.0,0.0,0.5
+Tamaqua,18252.0,1.0,1.0,1.0
+Tresckow,18254.0,0.0,0.0,0.5
+Weatherly,18255.0,0.0,0.0,0.5
+Weston,18256.0,0.0,0.0,0.5
+East-stroudsburg,18301.0,1.0,1.0,1.0
+East stroudsburg,18302.0,1.0,1.0,1.0
+Bartonsville,18321.0,0.0,0.0,0.5
+Brodheadsville,18322.0,1.0,1.0,1.0
+Bushkill,18324.0,0.0,0.0,0.5
+Canadensis,18325.0,0.0,0.0,0.5
+Cresco,18326.0,1.0,1.0,1.0
+Delaware water gap,18327.0,0.0,0.0,0.5
+Dingmans ferry,18328.0,0.0,0.0,0.5
+Effort,18330.0,1.0,1.0,1.0
+Gilbert,18331.0,0.0,0.0,0.5
+Henryville,18332.0,0.0,0.0,0.5
+Long pond,18334.0,0.0,0.0,0.5
+East stroudsburg,18335.0,0.0,0.0,0.5
+Matamoras,18336.0,0.0,0.0,0.5
+Milford,18337.0,0.0,0.0,0.5
+Millrift,18340.0,0.0,0.0,0.5
+Mount bethel,18343.0,0.0,0.0,0.5
+Mount pocono,18344.0,0.0,0.0,0.5
+Pocono-summit,18346.0,1.0,1.0,1.0
+Pocono lake,18347.0,0.0,0.0,0.5
+Swiftwater,18349.0,0.0,0.0,0.5
+Pocono pines,18350.0,0.0,0.0,0.5
+Portland,18351.0,0.0,0.0,0.5
+Reeders,18352.0,0.0,0.0,0.5
+Saylorsburg,18353.0,0.0,0.0,0.5
+Sciota,18354.0,0.0,0.0,0.5
+Stroudsburg,18360.0,2.0,1.0,2.0
+Swiftwater,18370.0,0.0,0.0,0.5
+Tamiment,18371.0,0.0,0.0,0.5
+Tannersville,18372.0,1.0,1.0,1.0
+Eynon,18403.0,1.0,1.0,1.0
+Beach lake,18405.0,0.0,0.0,0.5
+Carbondale,18407.0,2.0,1.0,2.0
+Clarks summit,18411.0,1.0,1.0,1.0
+Forest city,18413.0,0.0,0.0,0.5
+Dalton,18414.0,0.0,0.0,0.5
+Damascus,18415.0,0.0,0.0,0.5
+Equinunk,18417.0,0.0,0.0,0.5
+Factoryville,18419.0,0.0,0.0,0.5
+Forest city,18421.0,0.0,0.0,0.5
+Gouldsboro,18424.0,0.0,0.0,0.5
+Greeley,18425.0,0.0,0.0,0.5
+Greentown,18426.0,0.0,0.0,0.5
+Hawley,18428.0,1.0,1.0,1.0
+Honesdale,18431.0,2.0,1.0,2.0
+Jermyn,18433.0,0.0,0.0,0.5
+Jessup,18434.0,0.0,0.0,0.5
+Lackawaxen,18435.0,0.0,0.0,0.5
+Lake ariel,18436.0,1.0,1.0,1.0
+Lake como,18437.0,0.0,0.0,0.5
+Lakeville,18438.0,0.0,0.0,0.5
+Lakewood,18439.0,0.0,0.0,0.5
+Lenoxville,18441.0,0.0,0.0,0.5
+Milanville,18443.0,0.0,0.0,0.5
+Moscow,18444.0,0.0,0.0,0.5
+Newfoundland,18445.0,0.0,0.0,0.5
+Nicholson,18446.0,0.0,0.0,0.5
+Olyphant,18447.0,1.0,1.0,1.0
+Paupack,18451.0,0.0,0.0,0.5
+Peckville,18452.0,0.0,0.0,0.5
+Pleasant mount,18453.0,0.0,0.0,0.5
+Union dale,18454.0,0.0,0.0,0.5
+Preston park,18455.0,0.0,0.0,0.5
+Prompton,18456.0,0.0,0.0,0.5
+Shohola,18458.0,0.0,0.0,0.5
+South sterling,18460.0,0.0,0.0,0.5
+Starlight,18461.0,0.0,0.0,0.5
+Starrucca,18462.0,0.0,0.0,0.5
+Sterling township,18463.0,0.0,0.0,0.5
+Tafton,18464.0,0.0,0.0,0.5
+Thompson,18465.0,0.0,0.0,0.5
+Tobyhanna,18466.0,0.0,0.0,0.5
+Tyler hill,18469.0,0.0,0.0,0.5
+Union dale,18470.0,0.0,0.0,0.5
+Abington township,18471.0,0.0,0.0,0.5
+Waymart,18472.0,0.0,0.0,0.5
+Lake ariel,18473.0,0.0,0.0,0.5
+Scranton,18503.0,1.0,1.0,1.0
+Scranton,18504.0,1.0,1.0,1.0
+Scranton,18505.0,3.0,2.0,3.0
+Moosic,18507.0,0.0,0.0,0.5
+Scranton,18508.0,1.0,1.0,1.0
+Scranton,18509.0,1.0,1.0,1.0
+Scranton,18510.0,0.0,0.0,0.5
+Dunmore,18512.0,1.0,1.0,1.0
+Taylor,18517.0,0.0,0.0,0.5
+Old-forge,18518.0,1.0,1.0,1.0
+Dickson-city,18519.0,2.0,1.0,2.0
+Bear creek township,18602.0,0.0,0.0,0.5
+Berwick,18603.0,2.0,1.0,2.0
+Blakeslee,18610.0,1.0,1.0,1.0
+Dallas,18612.0,1.0,1.0,1.0
+Mehoopany,18614.0,0.0,0.0,0.5
+Falls township,18615.0,0.0,0.0,0.5
+Forksville,18616.0,0.0,0.0,0.5
+Glen lyon,18617.0,0.0,0.0,0.5
+Harveys lake,18618.0,0.0,0.0,0.5
+Hillsgrove,18619.0,0.0,0.0,0.5
+Hunlock creek,18621.0,0.0,0.0,0.5
+Huntington mills,18622.0,0.0,0.0,0.5
+Laceyville,18623.0,0.0,0.0,0.5
+Lake harmony,18624.0,0.0,0.0,0.5
+Factoryville,18625.0,0.0,0.0,0.5
+Muncy valley,18626.0,0.0,0.0,0.5
+Lopez,18628.0,0.0,0.0,0.5
+Mehoopany,18629.0,0.0,0.0,0.5
+Meshoppen,18630.0,0.0,0.0,0.5
+Mifflinville,18631.0,0.0,0.0,0.5
+Mildred,18632.0,0.0,0.0,0.5
+Nanticoke,18634.0,2.0,1.0,2.0
+Nescopeck,18635.0,0.0,0.0,0.5
+Noxen,18636.0,0.0,0.0,0.5
+Pittston,18640.0,3.0,1.0,3.0
+Pittston,18641.0,0.0,0.0,0.5
+Duryea,18642.0,0.0,0.0,0.5
+Exeter,18643.0,1.0,1.0,1.0
+Wyoming,18644.0,1.0,1.0,1.0
+Plymouth,18651.0,1.0,1.0,1.0
+Clarks summit,18653.0,0.0,0.0,0.5
+Shickshinny,18655.0,1.0,1.0,1.0
+Sweet valley,18656.0,0.0,0.0,0.5
+Tunkhannock,18657.0,2.0,1.0,2.0
+Wapwallopen,18660.0,0.0,0.0,0.5
+White haven,18661.0,1.0,1.0,1.0
+Wilkes-barre,18701.0,2.0,2.0,2.0
+Wilkes-barre,18702.0,2.0,2.0,2.0
+Kingston,18704.0,1.0,1.0,1.0
+Wilkes-barre,18705.0,0.0,0.0,0.5
+Wilkes-barre,18706.0,1.0,1.0,1.0
+Mountain top,18707.0,0.0,0.0,0.5
+Shavertown,18708.0,1.0,1.0,1.0
+Luzerne,18709.0,0.0,0.0,0.5
+Montrose,18801.0,1.0,1.0,1.0
+Athens,18810.0,0.0,0.0,0.5
+Silver lake township,18812.0,0.0,0.0,0.5
+Towanda,18814.0,0.0,0.0,0.5
+Montrose,18816.0,0.0,0.0,0.5
+East smithfield,18817.0,0.0,0.0,0.5
+Friendsville,18818.0,0.0,0.0,0.5
+Great bend,18821.0,0.0,0.0,0.5
+Hallstead,18822.0,0.0,0.0,0.5
+Harford township,18823.0,0.0,0.0,0.5
+Hop bottom,18824.0,0.0,0.0,0.5
+Kingsley,18826.0,0.0,0.0,0.5
+Lawton,18828.0,0.0,0.0,0.5
+Le raysville,18829.0,0.0,0.0,0.5
+Little meadows,18830.0,0.0,0.0,0.5
+Milan,18831.0,0.0,0.0,0.5
+Monroeton,18832.0,0.0,0.0,0.5
+New albany,18833.0,0.0,0.0,0.5
+New milford,18834.0,0.0,0.0,0.5
+Rome,18837.0,0.0,0.0,0.5
+Sayre,18840.0,3.0,1.0,3.0
+South gibson,18842.0,0.0,0.0,0.5
+Montrose,18843.0,0.0,0.0,0.5
+Springville township,18844.0,0.0,0.0,0.5
+Stevensville,18845.0,0.0,0.0,0.5
+Sugar run,18846.0,0.0,0.0,0.5
+Susquehanna,18847.0,1.0,1.0,1.0
+Towanda,18848.0,3.0,1.0,3.0
+Ulster,18850.0,0.0,0.0,0.5
+Warren center,18851.0,0.0,0.0,0.5
+Wyalusing,18853.0,0.0,0.0,0.5
+Wysox,18854.0,0.0,0.0,0.5
+Doylestown,18901.0,4.0,2.0,4.0
+Doylestown,18902.0,1.0,1.0,1.0
+Chalfont,18914.0,2.0,1.0,2.0
+Colmar,18915.0,0.0,0.0,0.5
+Dublin,18917.0,0.0,0.0,0.5
+Erwinna,18920.0,0.0,0.0,0.5
+Fountainville,18923.0,0.0,0.0,0.5
+Furlong,18925.0,0.0,0.0,0.5
+Jamison,18929.0,1.0,1.0,1.0
+Kintnersville,18930.0,0.0,0.0,0.5
+Line lexington,18932.0,0.0,0.0,0.5
+New-hope,18938.0,1.0,1.0,1.0
+Newtown,18940.0,3.0,1.0,3.0
+Ottsville,18942.0,1.0,1.0,1.0
+Perkasie,18944.0,3.0,1.0,3.0
+Pipersville,18947.0,1.0,1.0,1.0
+Point pleasant,18950.0,0.0,0.0,0.5
+Quakertown,18951.0,4.0,1.0,4.0
+Richboro,18954.0,2.0,1.0,2.0
+Richlandtown,18955.0,0.0,0.0,0.5
+Sellersville,18960.0,0.0,0.0,0.5
+Silverdale,18962.0,0.0,0.0,0.5
+Souderton,18964.0,4.0,1.0,4.0
+Southampton,18966.0,0.0,0.0,0.5
+Telford,18969.0,0.0,0.0,0.5
+Trumbauersville,18970.0,0.0,0.0,0.5
+Upper black eddy,18972.0,0.0,0.0,0.5
+Warminster,18974.0,4.0,1.0,4.0
+Warrington,18976.0,2.0,1.0,2.0
+Washington crossing,18977.0,0.0,0.0,0.5
+Furlong,18980.0,0.0,0.0,0.5
+Abington,19001.0,3.0,1.0,3.0
+Ambler,19002.0,3.0,1.0,3.0
+Ardmore,19003.0,2.0,1.0,2.0
+Bala-cynwyd,19004.0,2.0,1.0,2.0
+Huntingdon valley,19006.0,3.0,1.0,3.0
+Bristol,19007.0,2.0,1.0,2.0
+Broomall,19008.0,3.0,1.0,3.0
+Bryn athyn,19009.0,0.0,0.0,0.5
+Bryn mawr,19010.0,1.0,1.0,1.0
+Cheltenham,19012.0,0.0,0.0,0.5
+Chester,19013.0,1.0,1.0,1.0
+Aston,19014.0,2.0,1.0,2.0
+Brookhaven,19015.0,1.0,1.0,1.0
+Chester heights,19017.0,0.0,0.0,0.5
+Clifton heights,19018.0,1.0,1.0,1.0
+Bensalem,19020.0,4.0,1.0,4.0
+Croydon,19021.0,1.0,1.0,1.0
+Crum lynne,19022.0,0.0,0.0,0.5
+Darby township,19023.0,0.0,0.0,0.5
+Dresher,19025.0,2.0,1.0,2.0
+Drexel hill,19026.0,2.0,1.0,2.0
+Melrose park,19027.0,1.0,1.0,1.0
+Essington,19029.0,0.0,0.0,0.5
+Fairless hills,19030.0,1.0,1.0,1.0
+Flourtown,19031.0,0.0,0.0,0.5
+Folcroft,19032.0,0.0,0.0,0.5
+Folsom,19033.0,1.0,1.0,1.0
+Fort washington,19034.0,0.0,0.0,0.5
+Gladwyne,19035.0,0.0,0.0,0.5
+Glenolden,19036.0,1.0,1.0,1.0
+Erdenheim,19038.0,1.0,1.0,1.0
+Hatboro,19040.0,1.0,1.0,1.0
+Haverford,19041.0,0.0,0.0,0.5
+Holmes,19043.0,0.0,0.0,0.5
+Horsham,19044.0,1.0,1.0,1.0
+Jenkintown,19046.0,1.0,1.0,1.0
+Langhorne,19047.0,4.0,1.0,4.0
+Lansdowne,19050.0,1.0,1.0,1.0
+Feasterville,19053.0,1.0,1.0,1.0
+Levittown,19054.0,1.0,1.0,1.0
+Levittown,19055.0,0.0,0.0,0.5
+Levittown,19056.0,0.0,0.0,0.5
+Levittown,19057.0,2.0,2.0,2.0
+Garnet valley,19060.0,0.0,0.0,0.5
+Boothwyn,19061.0,2.0,1.0,2.0
+Media,19063.0,2.0,1.0,2.0
+Springfield,19064.0,4.0,1.0,4.0
+Merion station,19066.0,0.0,0.0,0.5
+Morrisville,19067.0,2.0,1.0,2.0
+Morton,19070.0,0.0,0.0,0.5
+Narberth,19072.0,1.0,1.0,1.0
+Newtown-square,19073.0,1.0,1.0,1.0
+Norwood,19074.0,0.0,0.0,0.5
+Oreland,19075.0,0.0,0.0,0.5
+Prospect-park,19076.0,1.0,1.0,1.0
+Ridley-park,19078.0,1.0,1.0,1.0
+Sharon-hill,19079.0,1.0,1.0,1.0
+Swarthmore,19081.0,1.0,1.0,1.0
+Upper darby,19082.0,2.0,1.0,2.0
+Havertown,19083.0,3.0,1.0,3.0
+Villanova,19085.0,0.0,0.0,0.5
+Nether providence township,19086.0,0.0,0.0,0.5
+Wayne,19087.0,3.0,1.0,3.0
+Willow-grove,19090.0,1.0,1.0,1.0
+Woodlyn,19094.0,1.0,1.0,1.0
+Wyncote,19095.0,1.0,1.0,1.0
+Wynnewood,19096.0,2.0,1.0,2.0
+Philadelphia,19102.0,1.0,1.0,1.0
+Philadelphia,19103.0,2.0,2.0,2.0
+Philadelphia,19104.0,3.0,3.0,3.0
+Philadelphia,19106.0,2.0,2.0,2.0
+Philadelphia,19107.0,2.0,2.0,2.0
+Philadelphia,19111.0,2.0,2.0,2.0
+Philadelphia,19113.0,0.0,0.0,0.5
+Philadelphia,19114.0,1.0,1.0,1.0
+Philadelphia,19115.0,1.0,1.0,1.0
+Philadelphia,19116.0,3.0,3.0,3.0
+Philadelphia,19118.0,1.0,1.0,1.0
+Philadelphia,19119.0,1.0,1.0,1.0
+Philadelphia,19120.0,2.0,2.0,2.0
+Philadelphia,19121.0,0.0,0.0,0.5
+Philadelphia,19122.0,1.0,1.0,1.0
+Philadelphia,19123.0,2.0,2.0,2.0
+Philadelphia,19124.0,1.0,1.0,1.0
+Philadelphia,19125.0,1.0,1.0,1.0
+Philadelphia,19126.0,1.0,1.0,1.0
+Philadelphia,19127.0,1.0,1.0,1.0
+Philadelphia,19128.0,3.0,3.0,3.0
+Philadelphia,19129.0,0.0,0.0,0.5
+Philadelphia,19130.0,4.0,4.0,4.0
+Philadelphia,19131.0,1.0,1.0,1.0
+Philadelphia,19132.0,0.0,0.0,0.5
+Philadelphia,19133.0,0.0,0.0,0.5
+Philadelphia,19134.0,1.0,1.0,1.0
+Philadelphia,19135.0,0.0,0.0,0.5
+Philadelphia,19136.0,1.0,1.0,1.0
+Philadelphia,19137.0,0.0,0.0,0.5
+Philadelphia,19138.0,1.0,1.0,1.0
+Philadelphia,19139.0,1.0,1.0,1.0
+Philadelphia,19140.0,0.0,0.0,0.5
+Philadelphia,19141.0,0.0,0.0,0.5
+Philadelphia,19142.0,1.0,1.0,1.0
+Philadelphia,19143.0,0.0,0.0,0.5
+Philadelphia,19144.0,0.0,0.0,0.5
+Philadelphia,19145.0,2.0,2.0,2.0
+Philadelphia,19146.0,2.0,2.0,2.0
+Philadelphia,19147.0,3.0,3.0,3.0
+Philadelphia,19148.0,1.0,1.0,1.0
+Philadelphia,19149.0,1.0,1.0,1.0
+Philadelphia,19150.0,1.0,1.0,1.0
+Philadelphia,19151.0,1.0,1.0,1.0
+Philadelphia,19152.0,2.0,2.0,2.0
+Philadelphia,19153.0,0.0,0.0,0.5
+Philadelphia,19154.0,1.0,1.0,1.0
+Paoli,19301.0,1.0,1.0,1.0
+Atglen,19310.0,0.0,0.0,0.5
+Avondale,19311.0,0.0,0.0,0.5
+Berwyn,19312.0,1.0,1.0,1.0
+Coatesville,19316.0,0.0,0.0,0.5
+Chadds ford historic district,19317.0,0.0,0.0,0.5
+Cheyney,19319.0,0.0,0.0,0.5
+Coatesville,19320.0,3.0,1.0,3.0
+Cochranville,19330.0,0.0,0.0,0.5
+Devon,19333.0,0.0,0.0,0.5
+Downingtown,19335.0,5.0,1.0,5.0
+Exton,19341.0,5.0,1.0,5.0
+Glen-mills,19342.0,3.0,1.0,3.0
+Glenmoore,19343.0,0.0,0.0,0.5
+Honey brook,19344.0,0.0,0.0,0.5
+Kennett square,19348.0,1.0,1.0,1.0
+Landenberg,19350.0,1.0,1.0,1.0
+Lincoln university,19352.0,0.0,0.0,0.5
+Frazer,19355.0,1.0,1.0,1.0
+Coatesville,19358.0,0.0,0.0,0.5
+Nottingham,19362.0,1.0,1.0,1.0
+Oxford,19363.0,1.0,1.0,1.0
+Parkesburg,19365.0,1.0,1.0,1.0
+Thorndale,19372.0,1.0,1.0,1.0
+Thornton,19373.0,0.0,0.0,0.5
+West chester,19380.0,3.0,2.0,3.0
+West chester,19382.0,1.0,1.0,1.0
+West-grove,19390.0,1.0,1.0,1.0
+Norristown,19401.0,2.0,1.0,2.0
+Norristown,19403.0,0.0,0.0,0.5
+Bridgeport,19405.0,0.0,0.0,0.5
+King-of-prussia,19406.0,2.0,1.0,2.0
+Blue-bell,19422.0,2.0,1.0,2.0
+Chester-springs,19425.0,1.0,1.0,1.0
+Collegeville,19426.0,1.0,1.0,1.0
+Conshohocken,19428.0,1.0,1.0,1.0
+Gwynedd,19436.0,0.0,0.0,0.5
+Ambler,19437.0,0.0,0.0,0.5
+Harleysville,19438.0,0.0,0.0,0.5
+Hatfield,19440.0,1.0,1.0,1.0
+Lafayette hill,19444.0,0.0,0.0,0.5
+Lansdale,19446.0,6.0,1.0,6.0
+Mont clare,19453.0,0.0,0.0,0.5
+North-wales,19454.0,1.0,1.0,1.0
+Oaks,19456.0,0.0,0.0,0.5
+Phoenixville,19460.0,2.0,1.0,2.0
+Plymouth-meeting,19462.0,2.0,1.0,2.0
+Pottstown,19464.0,4.0,2.0,4.0
+Pottstown,19465.0,2.0,1.0,2.0
+Limerick,19468.0,2.0,1.0,2.0
+Schwenksville,19473.0,1.0,1.0,1.0
+Collegeville,19474.0,0.0,0.0,0.5
+Spring-city,19475.0,1.0,1.0,1.0
+Zieglersville,19492.0,1.0,1.0,1.0
+Adamstown,19501.0,0.0,0.0,0.5
+Bally,19503.0,0.0,0.0,0.5
+Barto,19504.0,0.0,0.0,0.5
+Bechtelsville,19505.0,0.0,0.0,0.5
+Bernville,19506.0,0.0,0.0,0.5
+Bethel,19507.0,0.0,0.0,0.5
+Birdsboro,19508.0,0.0,0.0,0.5
+Blandon,19510.0,1.0,1.0,1.0
+Boyertown,19512.0,1.0,1.0,1.0
+Douglassville,19518.0,2.0,1.0,2.0
+Elverson,19520.0,0.0,0.0,0.5
+Fleetwood,19522.0,0.0,0.0,0.5
+Birdsboro,19523.0,0.0,0.0,0.5
+Gilbertsville,19525.0,1.0,1.0,1.0
+Hamburg,19526.0,0.0,0.0,0.5
+Kempton,19529.0,0.0,0.0,0.5
+Kutztown,19530.0,1.0,1.0,1.0
+Leesport,19533.0,1.0,1.0,1.0
+Lenhartsville,19534.0,0.0,0.0,0.5
+Lyon station,19536.0,0.0,0.0,0.5
+Mertztown,19539.0,0.0,0.0,0.5
+Mohnton,19540.0,0.0,0.0,0.5
+Mohrsville,19541.0,0.0,0.0,0.5
+Morgantown,19543.0,1.0,1.0,1.0
+Myerstown,19544.0,0.0,0.0,0.5
+Boyertown,19545.0,0.0,0.0,0.5
+Oley,19547.0,0.0,0.0,0.5
+Port clinton,19549.0,0.0,0.0,0.5
+Rehrersburg,19550.0,0.0,0.0,0.5
+Robesonia,19551.0,0.0,0.0,0.5
+Hamburg,19554.0,0.0,0.0,0.5
+Shoemakersville,19555.0,1.0,1.0,1.0
+Strausstown,19559.0,0.0,0.0,0.5
+Temple,19560.0,1.0,1.0,1.0
+Topton,19562.0,0.0,0.0,0.5
+Virginville,19564.0,0.0,0.0,0.5
+Wernersville,19565.0,0.0,0.0,0.5
+Womelsdorf,19567.0,2.0,1.0,2.0
+Reading,19601.0,1.0,1.0,1.0
+Reading,19602.0,2.0,2.0,2.0
+Reading,19604.0,1.0,1.0,1.0
+Reading,19605.0,2.0,2.0,2.0
+Reading,19606.0,4.0,3.0,4.0
+Reading,19607.0,2.0,2.0,2.0
+Sinking-spring,19608.0,1.0,1.0,1.0
+Reading,19609.0,0.0,0.0,0.5
+Wyomissing,19610.0,1.0,1.0,1.0
+Reading,19611.0,0.0,0.0,0.5

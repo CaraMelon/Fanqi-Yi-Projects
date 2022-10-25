@@ -1,0 +1,398 @@
+﻿latitude,longitude,place_id,street,city,state,zip,phone,store_id
+40.12659,-75.1309,ChIJo4DUo0KwxokRag1csCqiF7Q,1321 Easton Road,Abington,PA,19001,(215) 886-8509,Rite Aid #04256 Abington
+40.12276,-75.1169,ChIJs7QzNFCwxokRWh_YzPbIMb0,1441 Old York Road,Abington,PA,19001,(215) 886-0472,Rite Aid #00558 Abington
+40.6061,-80.2815,ChIJM_LWxZ5oNIgR4IEWm7VN9qU,2302 Sheffield Road,Aliquippa,PA,15001,(724) 375-5558,Rite Aid #10888 Aliquippa
+40.6082,-75.4912,ChIJH2wBloU5xIkR-m43q6X6pcs,1401 W Tilghman Street,Allentown,PA,18102,(610) 434-2874,Rite Aid #07836 Allentown
+40.58415,-75.461,ChIJWYW1tcM7xIkRzZpMFghmdqA,1628 South Fourth Street,Allentown,PA,18103,(610) 797-1063,Rite Aid #11053 Allentown
+40.61435,-75.5345,ChIJQ3TvJlE3xIkRA1Vu6_h8qpc,1650 North Cedar Crest Blvd,Allentown,PA,18104,(610) 395-3671,Rite Aid #11055 Allentown
+40.60363,-75.4721,ChIJQ2VQhnw5xIkRHuj0E6q6hEA,27 N 7th Street,Allentown,PA,18101,(610) 437-7261,Rite Aid #06778 Allentown
+40.58336,-75.5205,ChIJExDKdHQ6xIkRgTIpOBa8DQA,361 S Cedar Crest Blvd,Allentown,PA,18103,(610) 821-7999,Rite Aid #11054 Allentown
+40.55237,-75.5904,ChIJmRggIscxxIkRFn8Uk9GQh7A,6822 Hamilton Boulevard,Allentown,PA,18106,(610) 398-1351,Rite Aid #11056 Allentown
+40.56732,-79.9994,ChIJHZONG32MNIgRNpafUJYRyKw,1701 Duncan Avenue,Allison Park,PA,15101,(412) 364-0588,Rite Aid #10905 Allison Park
+40.60281,-79.9441,ChIJMYMBAnWONIgRbCZCGmv7z24,4960 William Flynn Hwy,Allison Park,PA,15101,(724) 443-5455,Rite Aid #10904 Allison Park
+40.51087,-78.4021,ChIJM3lCEJSRy4kRyOFjy-NkfSo,1600 9th Ave,Altoona,PA,16602,(814) 941-2406,Rite Aid #06741 Altoona
+40.59728,-78.3219,ChIJ5fY7qpCMy4kRQzH-L0uu1EY,3106 E Pleasant Valley,Altoona,PA,16601,(814) 742-8429,Rite Aid #06740 Altoona
+40.48218,-78.4008,ChIJxxyEhm6Ry4kRV1Dl6L5XMK8,3331 Pleasant Valley Blvd,Altoona,PA,16602,(814) 942-1081,Rite Aid #11012 Altoona
+40.52089,-78.3964,ChIJlRbLF-6Ry4kR0trY0lPMGZI,600 Chestnut Avenue,Altoona,PA,16601,(814) 943-0545,Rite Aid #11011 Altoona
+40.15791,-75.2135,ChIJo9hjIzC7xokRR1VS6Z5DTEo,1201 South Bethlehem Pike,Ambler,PA,19002,(215) 646-8351,Rite Aid #03273 Ambler
+40.591,-80.2302,ChIJm-GbxPhmNIgRgHCzaGUBG68,925 Merchant Street,Ambridge,PA,15003,(724) 266-7664,Rite Aid #10889 Ambridge
+40.58145,-79.5664,ChIJE59KJJewNIgRYDEA5lwCNsg,111 North Plaza,Apollo,PA,15613,(724) 478-2500,Rite Aid #03586 Apollo
+40.01003,-75.2943,ChIJeXuVYIfAxokR41STCVaoZy4,169 West Lancaster Avenue,Ardmore,PA,19003,(610) 649-7150,Rite Aid #00857 Ardmore
+40.78416,-76.3317,ChIJAXiI4DLzxYkRycyNAhtffmQ,129 East Centre Street,Ashland,PA,17921,(570) 875-2475,Rite Aid #02478 Ashland
+39.85676,-75.4264,ChIJFx8DMAzmxokRK9M-6CEyj50,4400 Pennell Road,Aston,PA,19014,(610) 494-2055,Rite Aid #01274 Aston
+40.68809,-80.3205,ChIJe9q7WbNvNIgRuHVtoJna48o,1799 Third Street,Beaver,PA,15009,(724) 774-2210,Rite Aid #02277 Beaver
+40.75631,-80.3204,ChIJdUL1M_5wNIgRsavthF0JZYc,1505 7th Avenue,Beaver Falls,PA,15010,(724) 843-6774,Rite Aid #10890 Beaver Falls
+40.13651,-79.8435,ChIJrxO7iTocNYgRLnO4R8U7rwI,843 Rostraver Road,Belle Vernon,PA,15012,(724) 929-8311,Rite Aid #10891 Belle Vernon
+40.91422,-77.7632,ChIJBc9NENyizokRMdK9VF93_pM,821 East Bishop Street,Bellefonte,PA,16823,(814) 355-1548,Rite Aid #11015 Bellefonte
+40.12992,-80.0022,ChIJ2WbBQ_sDNYgRRoVS_mMT82E,175 Wilson Road,Bentleyville,PA,15314,(724) 239-3400,Rite Aid #01147 Bentleyville
+41.05217,-76.2396,ChIJB04rhx2dxYkRgTyrs5WKHyw,400 West Second Street,Berwick,PA,18603,(570) 752-5200,Rite Aid #11073 Berwick
+40.31232,-80.0651,ChIJBSGFmOj4NIgRIkf2HiuKL0U,503 Clifton Road,Bethel Park,PA,15102,(412) 854-8260,Rite Aid #06733 Bethel Park
+40.33801,-80.0267,ChIJQzLAIJf5NIgRDbl9y0jFu90,5100 Library Road,Bethel Park,PA,15102,(412) 854-1207,Rite Aid #04783 Bethel Park
+40.33289,-80.0224,ChIJAZM3_Jr5NIgR2NCbb5lrtv0,5235 Library Road,Bethel Park,PA,15102,(412) 833-1175,Rite Aid #10906 Bethel Park
+40.61167,-75.377,ChIJsfDSp1w-xIkR02tbfELZvHs,104 E Third Street,Bethlehem,PA,18015,(610) 867-3981,Rite Aid #00813 Bethlehem
+40.63802,-75.3497,ChIJneXggNs_xIkRjDT_ZGRQUA4,1781 Stefko Boulevard,Bethlehem,PA,18017,(610) 865-0761,Rite Aid #00836 Bethlehem
+40.62815,-75.4165,ChIJH1wbyt4-xIkRVQxqCQvNqDw,2178 W Union Blvd,Bethlehem,PA,18018,(610) 867-1004,Rite Aid #11042 Bethlehem
+40.44243,-79.2285,ChIJzRx9fsQ3y4kRfKxmjnthuN8,200 Resort Plaza Drive,Blairsville,PA,15717,(724) 459-5938,Rite Aid #01014 Blairsville
+41.01185,-76.4137,ChIJF58PEB-HxYkR9ZGkKpdc1G4,2411 Columbia Blvd,Bloomsburg,PA,17815,(570) 387-1900,Rite Aid #11038 Bloomsburg
+39.83451,-75.4429,ChIJVdJhKdPlxokReqSNVt65TnQ,3120 Chichester Avenue,Boothwyn,PA,19061,(610) 494-2770,Rite Aid #11112 Boothwyn
+40.10241,-74.871,ChIJU2alIQtOwYkRvgIVw3VQaG8,244 Commerce Circle,Bristol,PA,19007,(215) 781-9788,Rite Aid #11100 Bristol
+40.09923,-74.8543,ChIJuQFS0hROwYkRvPzg7y1DwMA,452 Pond Street,Bristol,PA,19007,(215) 785-1553,Rite Aid #02267 Bristol
+39.9824,-75.3725,ChIJOY1GbFnqxokRPZ4WsRBOKAM,2901 Springfield Road,Broomall,PA,19008,(610) 356-8800,Rite Aid #01567 Broomall
+40.01942,-75.3134,ChIJD-9nDYq_xokRXkK4jnPw71E,705 W Lancaster Avenue,Bryn Mawr,PA,19010,(610) 527-3603,Rite Aid #11101 Bryn Mawr
+40.86014,-79.8949,ChIJfXcPWupiM4gRndRLZyyPt3I,139 South Main Street,Butler,PA,16001,(724) 287-6751,Rite Aid #00754 Butler
+40.89665,-79.9085,ChIJX50KhjdjM4gR_NCQxb5Al0g,1520 N Main Street Ext,Butler,PA,16001,(724) 282-8113,Rite Aid #10982 Butler
+40.86898,-79.9307,ChIJD4v6njp9M4gRmP_TpBLaY48,178 Point Plaza,Butler,PA,16001,(724) 285-5800,Rite Aid #10984 Butler
+40.84348,-79.9185,ChIJ3cI8T6tiM4gRYqXdJVibJxg,200 Greater Butler Mart,Butler,PA,16001,(724) 282-7808,Rite Aid #10983 Butler
+40.06669,-79.8896,ChIJPXZZvuMaNYgR0K7NwSTiTTI,404 Third Street,California,PA,15419,(724) 938-3515,Rite Aid #01514 California
+40.24016,-76.9355,ChIJF_seIDzCyIkRRGLNNPx4Sng,3200 Market Street,Camp Hill,PA,17011,(717) 763-1181,Rite Aid #11017 Camp Hill
+40.25936,-80.1856,ChIJ6zYMx39UNIgR1opWQiImmfM,25 East Pike Street,Canonsburg,PA,15317,(724) 745-4418,Rite Aid #01353 Canonsburg
+40.25682,-80.2036,ChIJIxy4hXZTNIgRRvK7re-1Xh4,601 West Pike Street,Canonsburg,PA,15317,(724) 745-5016,Rite Aid #10960 Canonsburg
+41.57377,-75.5011,ChIJj5GBi77NxIkR3wdD42lBh-A,54 North Main Street,Carbondale,PA,18407,(570) 282-3431,Rite Aid #02768 Carbondale
+40.22625,-77.1802,ChIJ2XRIqxfgyIkRstfsCSqmoXU,1814 Spring Road,Carlisle,PA,17013,(717) 249-7697,Rite Aid #03607 Carlisle
+40.19136,-77.1614,ChIJVeOIobrhyIkRtf4ZMvLLeWk,320 York Road,Carlisle,PA,17013,(717) 245-0116,Rite Aid #07884 Carlisle
+40.19515,-77.1892,ChIJTy5lUdfhyIkRekwuEEFeEyw,429 South Hanover Street,Carlisle,PA,17013,(717) 258-4800,Rite Aid #11018 Carlisle
+39.93519,-77.6537,ChIJuew7ftWdyYkRCR5u879Huh0,415 East Queen Street,Chambersburg,PA,17201,(717) 263-8040,Rite Aid #03609 Chambersburg
+40.13845,-79.897,ChIJn6CqdcIcNYgRqxQEsB-nJYQ,101 5th Street,Charleroi,PA,15022,(724) 489-9334,Rite Aid #04083 Charleroi
+39.83675,-75.3952,ChIJPaJNvlHmxokRbQEV3D-w6lo,2722 West 9th Street,Chester,PA,19013,(610) 494-3910,Rite Aid #02264 Chester
+40.54062,-79.8037,ChIJ_Uh7svOUNIgRPvaf_LadHvQ,1200 Pittsburgh Street,Cheswick,PA,15024,(724) 274-7111,Rite Aid #10893 Cheswick
+40.2937,-79.8881,ChIJ_bGnL-3kNIgRrh0TV_1xlWw,623 Saint Clair Avenue,Clairton,PA,15025,(412) 233-2703,Rite Aid #03200 Clairton
+41.48514,-75.6927,ChIJe-fPvBfYxIkRPO0zyZTlR4E,1050 Northern Blvd,Clarks Summit,PA,18411,(570) 587-4508,Rite Aid #07878 Clarks Summit
+41.02187,-78.436,ChIJR_YN24NCzIkRLwTvisBJCcc,307 E Market Street,Clearfield,PA,16830,(814) 765-7841,Rite Aid #06839 Clearfield
+40.3377,-76.4848,ChIJNdDuJWyoyIkREbz3xokRMPU,469 West Penn Avenue,Cleona,PA,17042,(717) 228-2289,Rite Aid #11021 Cleona
+39.9305,-75.2953,ChIJR0rqryzCxokR94XV7mGVoEo,113 East Baltimore Avenue,Clifton Heights,PA,19018,(610) 622-3225,Rite Aid #01758 Clifton Heights
+39.98453,-75.8701,ChIJoxI87hNbxokRQq6hHC5i4B8,128 Airport Road,Coatesville,PA,19320,(610) 384-2011,Rite Aid #11142 Coatesville
+39.98358,-75.819,ChIJ4zPiDOhbxokRxMQnh61NRFA,320 East Lincoln Highway,Coatesville,PA,19320,(610) 384-7022,Rite Aid #00992 Coatesville
+40.0307,-76.4746,ChIJia0Rvm2dyIkRbpodsUif9AA,1786-I Columbia Avenue,Columbia,PA,17512,(717) 684-0025,Rite Aid #03610 Columbia
+41.60292,-80.3038,ChIJa3F0PWxOMogROndYy3j281o,100 South Third Street,Conneaut Lake,PA,16316,(814) 382-2380,Rite Aid #10999 Conneaut Lake
+40.02395,-79.5952,ChIJtRRrChglNYgRyqASLFSqpOc,200 Memorial Blvd,Connellsville,PA,15425,(724) 628-8460,Rite Aid #10964 Connellsville
+40.65989,-80.2385,ChIJtYi_l65lNIgRALSXkxr1asY,1021 First Avenue,Conway,PA,15027,(724) 869-2369,Rite Aid #10894 Conway
+40.51684,-80.1615,ChIJJXSc5UBeNIgRvk9n5hPijC8,412 Broadway Street,Coraopolis,PA,15108,(412) 264-0810,Rite Aid #01448 Coraopolis
+41.93012,-79.6419,ChIJt11sK6ykMogRXKLXks2h_jI,827 N Center Street,Corry,PA,16407,(814) 665-3764,Rite Aid #00596 Corry
+41.76681,-78.0298,ChIJGcj4SK3kzYkR0czie6WeHCQ,207 Route 6 West,Coudersport,PA,16915,(814) 274-0439,Rite Aid #01976 Coudersport
+40.69868,-80.1033,ChIJTWAnDVR9NIgRI9F4MiAL4HQ,20480 Route 19,Cranberry Twp,PA,16066,(724) 778-8989,Rite Aid #07781 Cranberry Twp
+40.45996,-78.5919,ChIJw2kGjJaey4kRVC9IBjisJKQ,1212 Second Street,Cresson,PA,16630,(814) 886-2677,Rite Aid #01543 Cresson
+40.39998,-79.585,ChIJUXA4qN3FNIgRfSo9Cbs2drA,6531 Route 22,Delmont,PA,15626,(724) 468-6282,Rite Aid #01726 Delmont
+40.3313,-79.3001,ChIJ41DK8i8yy4kR5cbw3tRAU6s,222 Y Street,Derry,PA,15627,(724) 694-9811,Rite Aid #01628 Derry
+40.12852,-77.0203,ChIJrSfOQvLlyIkRU9LDm32phy0,818 US Route 15 North,Dillsburg,PA,17019,(717) 432-0490,Rite Aid #11019 Dillsburg
+40.2599,-75.7268,ChIJFYzPmG99xokRfKTK9QaJwWE,1205 Ben Franklin Highway West,Douglassville,PA,19518,(610) 385-6643,Rite Aid #00447 Douglassville
+39.9824,-76.8151,ChIJHfsXcsiMyIkRN37YAoWj7nQ,2901 Carlisle Road,Dover,PA,17315,(717) 764-9831,Rite Aid #01894 Dover
+40.00963,-75.7029,ChIJI1MGZo31xokRPfr0u5yrVxo,101 Wallace Avenue,Downingtown,PA,19335,(610) 873-4725,Rite Aid #11144 Downingtown
+40.03777,-75.7683,ChIJNbZ3SFZexokRLWUu8WlmLwE,1249 Horseshoe Pike,Downingtown,PA,19335,(610) 873-3720,Rite Aid #03768 Downingtown
+39.99655,-75.7454,EiwzODA3IExpbmNvbG4gSHd5LCBEb3duaW5ndG93biwgUEEgMTkzMzUsIFVTQSIxEi8KFAoSCVHezagzX8aJEcVGwBGo8XODEN8dKhQKEgljyhJDlfXGiRE_MJX2uuYoNg,3807 Lincoln Highway,Downingtown,PA,19335,(610) 269-0226,Rite Aid #11143 Downingtown
+40.32199,-75.133,ChIJTcnaPqICxIkR2LYbHaY_-Gc,472 N Main Street,Doylestown,PA,18901,(215) 345-1020,Rite Aid #11085 Doylestown
+40.35872,-75.0878,ChIJSbKEdLcDxIkRu26ZsJWPP5Q,5176 Cold Springs Creamery Rd,Doylestown,PA,18902,(215) 489-5481,Rite Aid #11087 Doylestown
+40.14412,-75.1677,ChIJYUcHwLy6xokRaMvcawPdr04,1650 Limekiln Pike,Dresher,PA,19025,(215) 628-4404,Rite Aid #11104 Dresher
+39.94957,-75.3085,ChIJ9fURT5DBxokRVYtLInpPlOw,710 Burmont Road,Drexel Hill,PA,19026,(610) 626-4350,Rite Aid #01081 Drexel Hill
+39.96076,-75.2891,ChIJP9O-VgnBxokRoXBF2OHAcNI,832 North Lansdowne Ave,Drexel Hill,PA,19026,(610) 449-7188,Rite Aid #11105 Drexel Hill
+40.39047,-77.044,ChIJn_he7HfQyIkRewllpM3YOLA,5 Friendly Drive,Duncannon,PA,17020,(717) 834-6303,Rite Aid #04293 Duncannon
+41.41977,-75.6319,ChIJo8-CBlDZxIkRiTVEhc4SPlg,217 South Blakely Street,Dunmore,PA,18512,(570) 343-5525,Rite Aid #01180 Dunmore
+41.05026,-75.1105,ChIJ3bF6-LSFxIkRo9Acnyyd4sM,4551 Milford Road,East Stroudsburg,PA,18302,(570) 223-8062,Rite Aid #01800 East Stroudsburg
+40.6811,-75.2486,ChIJ1Tp8Zn1rxIkRkzdMgeS0Utg,601 South 25th Street,Easton,PA,18045,(610) 252-7405,Rite Aid #11045 Easton
+40.69102,-75.2215,ChIJnwZyKlxsxIkRU_owYeIw6OA,901 Northampton Street,Easton,PA,18042,(610) 258-2353,Rite Aid #11043 Easton
+40.47319,-78.7491,ChIJu7L-v_Vzy4kR9XA5SPXbqis,4606 Admiral Peary Highway,Ebensburg,PA,15931,(814) 472-5312,Rite Aid #00756 Ebensburg
+40.27257,-79.8856,ChIJl20dVX3jNIgRcZ9xBpTD2kU,300 Market Street,Elizabeth,PA,15037,(412) 384-2890,Rite Aid #02482 Elizabeth
+40.86098,-80.2868,ChIJhTM1CvB3NIgRBsNhc9FP9fg,115 Fifth Street,Ellwood City,PA,16117,(724) 758-3294,Rite Aid #10992 Ellwood City
+40.52633,-75.5102,ChIJ16-dgrQ6xIkReO4f54fKS6w,1328 Chestnut Street,Emmaus,PA,18049,(610) 967-6440,Rite Aid #11046 Emmaus
+41.50941,-78.2237,ChIJlxtxi2DGzYkRzmHSusZf4SI,620 E Allegheny Avenue,Emporium,PA,15834,(814) 486-2007,Rite Aid #07850 Emporium
+40.30077,-76.9291,ChIJsz4QBgbEyIkRC87U-rnuXCE,455-K North Enola Road,Enola,PA,17025,(717) 732-3666,Rite Aid #03611 Enola
+42.11039,-80.0765,ChIJFy2F5ReAMogRg4kKaDwFaoI,163 West 26th Street,Erie,PA,16508,(814) 452-4012,Rite Aid #02382 Erie
+42.11299,-80.095,ChIJo-ZDKQaAMogR1BJa_wM9nDo,1709 Liberty Street,Erie,PA,16502,(814) 452-2596,Rite Aid #01854 Erie
+42.11419,-80.0639,ChIJtfLPRC-AMogRVsLOd6cDZZc,2715 Parade Street,Erie,PA,16504,(814) 454-5148,Rite Aid #00213 Erie
+42.13183,-80.0768,ChIJZVv6Fuh_LYgRA7TAZezc6Qo,353 East 6th Street,Erie,PA,16507,(814) 455-2910,Rite Aid #11008 Erie
+42.14402,-80.0062,ChIJz222K9h9LYgRvSZr15wLtgA,4145 Buffalo Road,Erie,PA,16510,(814) 899-6924,Rite Aid #11010 Erie
+42.07499,-80.0941,ChIJS7buFIOAMogRbe67Kf8vPN8,5430 Peach Street,Erie,PA,16509,(814) 868-4624,Rite Aid #11009 Erie
+42.12588,-80.0834,EiE5MTYgU3RhdGUgU3QsIEVyaWUsIFBBIDE2NTAxLCBVU0EiMRIvChQKEgm7Hb6L438tiBFacWl52j4GMxCUByoUChIJwU3mrBiAMogRwhTtN4EhIyM,916 State Street,Erie,PA,16501,(814) 456-0560,Rite Aid #01376 Erie
+42.1074,-80.1329,ChIJm-ixFZh_MogRi1K-uWxSpow,925 West Erie Plaza,Erie,PA,16505,(814) 454-7800,Rite Aid #02375 Erie
+40.14774,-76.8144,ChIJ94ro98WUyIkRIqJUd67QpWA,65 Newberry Parkway,Etters,PA,17319,(717) 938-3655,Rite Aid #11025 Etters
+40.01235,-78.37,ChIJ9VEqKHdLyokR1Hn4Lr3xzJU,211 East Main Street,Everett,PA,15537,(814) 652-2052,Rite Aid #01429 Everett
+40.42309,-79.6619,ChIJK2vumFrBNIgRQb4yGOYUlho,4830 William Penn Highway,Export,PA,15632,(724) 327-8233,Rite Aid #10974 Export
+40.04885,-75.6625,ChIJq5ccT9n0xokRBIvfTL7EQLg,118 Eagleview Boulevard,Exton,PA,19341,(610) 363-0554,Rite Aid #01929 Exton
+41.50745,-75.5787,ChIJ0ftZvvbQxIkROqfYoRpYTic,791 Scranton Carbondale Hwy,Eynon,PA,18403,(570) 876-3788,Rite Aid #11064 Eynon
+40.19086,-74.8308,Ei42MDAgTGluY29sbiBId3ksIEZhaXJsZXNzIEhpbGxzLCBQQSAxOTAzMCwgVVNBIjESLwoUChIJM8HYfSlRwYkR9EMhy-SuT3gQ2AQqFAoSCcmHBylThoWAEb7XMfMZUxve,600 Lincoln Highway,Fairless Hills,PA,19030,(215) 295-0150,Rite Aid #11106 Fairless Hills
+41.21244,-80.4805,ChIJOT7s0CPAM4gRfcMWom5EE9M,700 Sharon New Castle Rd,Farrell,PA,16121,(724) 983-1645,Rite Aid #01668 Farrell
+39.90828,-77.5508,ChIJMRm1M9uhyYkRK1Q6qX5ewB4,5035 Lincoln Way East,Fayetteville,PA,17222,(717) 352-3850,Rite Aid #00232 Fayetteville
+40.58527,-75.6276,ChIJD2sRR9EzxIkR4BXaSgWcTt0,7719 Main Street,Fogelsville,PA,18051,(610) 391-0922,Rite Aid #11047 Fogelsville
+40.76901,-79.5306,ChIJXXvqZlmoNIgRczvFQg1Gt9Y,838 Fifth Avenue,Ford City,PA,16226,(724) 763-4260,Rite Aid #02685 Ford City
+40.77812,-76.2289,ChIJU35cntaSxYkRjPb1Ee6vvVI,452 South Lehigh Avenue,Frackville,PA,17931,(570) 874-1587,Rite Aid #00223 Frackville
+41.394,-79.8249,ChIJPdQN46seM4gRbhSHbcKkQv8,1020 Liberty Street,Franklin,PA,16323,(814) 432-4824,Rite Aid #11002 Franklin
+39.82806,-77.2373,ChIJX45SGYusyYkRGX-UpKOHQuQ,231 West Street,Gettysburg,PA,17325,(717) 334-6447,Rite Aid #00927 Gettysburg
+40.62632,-79.9426,ChIJWwyaRUeONIgR1V6OD9yF3Nk,4155 Ewalt Road,Gibsonia,PA,15044,(724) 449-8080,Rite Aid #07832 Gibsonia
+41.99667,-80.3264,ChIJsem83c1xMogRGFgvuppX6cc,9141 Ridge Road,Girard,PA,16417,(814) 774-8880,Rite Aid #01699 Girard
+40.32067,-79.8919,ChIJV7arehnlNIgRycShNs2ByeA,210 9th Street,Glassport,PA,15045,(412) 678-5109,Rite Aid #01925 Glassport
+40.52577,-79.9619,ChIJJXBzOiqNNIgRkLZ0Hop0X4U,1710 Mount Royal Blvd,Glenshaw,PA,15116,(412) 487-8767,Rite Aid #10909 Glenshaw
+39.79465,-77.7292,ChIJl5DsDTyQyYkRWxrbrCpQVTA,200 North Antrim Way,Greencastle,PA,17225,(717) 597-4617,Rite Aid #00230 Greencastle
+40.30288,-79.5374,ChIJY7C_5D_QNIgR03jgE-zs1-E,314 East Pittsburgh Street,Greensburg,PA,15601,(724) 834-0960,Rite Aid #10966 Greensburg
+40.30425,-79.582,ChIJIUY6JZXaNIgRiPVwr08tUFc,6090 Route 30,Greensburg,PA,15601,(724) 837-4180,Rite Aid #10967 Greensburg
+40.31566,-79.5478,ChIJueYJIBvQNIgRZCjXAZwFO0E,685 North Main Street,Greensburg,PA,15601,(724) 837-4164,Rite Aid #00263 Greensburg
+41.40782,-80.3791,ChIJgdHxMcW2M4gR3MX31RX4Kd8,335 Main Street,Greenville,PA,16125,(724) 588-3398,Rite Aid #03449 Greenville
+40.0075,-79.8666,ChIJY9Iu04wQNYgRRqAa17zEjQ8,6039 National Pike,Grindstone,PA,15442,(724) 785-4522,Rite Aid #03443 Grindstone
+41.15866,-80.0893,ChIJXfZ_g1x1M4gRhCXDlrWRoyk,126 W Main Street,Grove City,PA,16127,(724) 458-0944,Rite Aid #03447 Grove City
+40.45492,-76.925,ChIJH2lk7KnOyIkRNdQypqtSQwU,3773 Peters Mountain Rd,Halifax,PA,17032,(717) 896-9084,Rite Aid #04288 Halifax
+40.54256,-75.9774,ChIJrbvEj53bxYkRKZKP_13PH5Y,807 South 4th Street,Hamburg,PA,19526,(610) 562-9454,Rite Aid #03425 Hamburg
+39.77195,-76.9574,ChIJ23D93gZbyIkRXPZ5vAX-JvA,1430 Baltimore Street,Hanover,PA,17331,(717) 632-8833,Rite Aid #11027 Hanover
+39.82475,-76.9878,ChIJFyo1SfNZyIkR_jEXdaGc02k,301 Eisenhower Drive,Hanover,PA,17331,(717) 637-3744,Rite Aid #12999 Hanover
+39.79948,-76.9827,ChIJj84IPD9ayIkR185OChzw_4U,43-47 Baltimore Street,Hanover,PA,17331,(717) 632-5490,Rite Aid #02510 Hanover
+40.80274,-80.1361,ChIJA9t3DFx-NIgRa53Juw5z-bI,115 Perry Hwy,Harmony,PA,16037,(724) 452-6851,Rite Aid #10986 Harmony
+40.261,-76.8562,ChIJCw-elO7AyIkRs7TirFZZIAs,1941 Derry Street,Harrisburg,PA,17104,(717) 234-3350,Rite Aid #03608 Harrisburg
+40.2795,-76.8952,ChIJL0OSf0fByIkR78HZtwFa-LY,2103 N Third Street,Harrisburg,PA,17110,(717) 236-4208,Rite Aid #01887 Harrisburg
+40.33046,-76.8558,ChIJ4wzp3qbHyIkRk7pUS5KfJyU,2604 Linglestown Road,Harrisburg,PA,17110,(717) 540-4310,Rite Aid #01981 Harrisburg
+40.2613,-76.8809,ChIJ-e0i3xrByIkRy2OLP4UvbQM,304 Market Street,Harrisburg,PA,17101,(717) 234-6149,Rite Aid #00721 Harrisburg
+40.28815,-76.8366,ChIJV6F-Y1LHyIkR2PrY0tqp_SI,3601 Walnut Street,Harrisburg,PA,17109,(717) 545-8183,Rite Aid #04284 Harrisburg
+40.27853,-76.8144,ChIJvz3K902_yIkRFbDbkP-KUTM,4299 Union Deposit Road,Harrisburg,PA,17111,(717) 564-6750,Rite Aid #04260 Harrisburg
+40.30607,-76.8051,ChIJ47buj5S4yIkRHps16JcXh1w,4999 Jonestown Rd,Harrisburg,PA,17109,(717) 540-5413,Rite Aid #07894 Harrisburg
+40.26732,-76.8401,ChIJCWKCCb3AyIkR4AG3dV9zjw0,501 South 29th St,Harrisburg,PA,17104,(717) 233-5344,Rite Aid #00866 Harrisburg
+39.97361,-75.3205,ChIJK7e9_brBxokR01LodQerPks,1305 West Chester Pike,Havertown,PA,19083,(610) 446-2795,Rite Aid #00790 Havertown
+40.97299,-75.9785,ChIJrZI__hqkxYkRqeE6Bnbp9Nk,1000 North Church Street,Hazleton,PA,18201,(570) 450-7272,Rite Aid #04840 Hazleton
+40.57308,-75.3417,ChIJq05DD_g9xIkRd5rllcSD1ig,110 Main Street,Hellertown,PA,18055,(610) 838-7371,Rite Aid #11048 Hellertown
+41.2337,-80.476,ChIJG2R4yWnAM4gRLAGyGkZ3-70,1851 East State Street,Hermitage,PA,16148,(724) 981-2800,Rite Aid #10995 Hermitage
+40.2832,-76.6577,ChIJ2QuhOUe7yIkRb8Wr31OOuSA,337 West Chocolate Avenue,Hershey,PA,17033,(717) 533-2941,Rite Aid #00246 Hershey
+40.43066,-78.3829,ChIJg3HMYCCUy4kRA6h7XPMlyik,1201 Blair St,Hollidaysburg,PA,16648,(814) 696-0289,Rite Aid #06738 Hollidaysburg
+41.55405,-75.2252,ChIJdQHfUHWzxIkRF7Gy851RyE0,1184 Texas Palmyra Highway,Honesdale,PA,18431,(570) 253-0762,Rite Aid #00229 Honesdale
+40.47985,-78.0141,ChIJ72Ctrl7jy4kRps3ssTcELjk,9635 William Penn Highway,Huntingdon,PA,16652,(814) 643-3661,Rite Aid #00233 Huntingdon
+40.15809,-75.0475,ChIJI_z4Ee-txokR_nduTdxLyKE,1035 County Line Road,Huntingdon Valley,PA,19006,(215) 364-2980,Rite Aid #11096 Huntingdon Valley
+40.171,-75.0725,ChIJVVaZeXKuxokRO6TTS5AgJEs,2182 County Line Road,Huntingdon Valley,PA,19006,(215) 953-1655,Rite Aid #11099 Huntingdon Valley
+40.08905,-75.0927,ChIJIY9YnzuxxokRSUMLGajoOjA,805 Huntingdon Pike,Huntingdon Valley,PA,19006,(215) 379-2725,Rite Aid #00188 Huntingdon Valley
+40.62328,-79.1449,ChIJJ6yWXyNby4kRLSPop5RMOfY,375 Philadelphia Street,Indiana,PA,15701,(724) 465-2243,Rite Aid #00264 Indiana
+40.36806,-79.6771,ChIJgbNFNAzDNIgR5y3hx3qZt-4,3550 Route 130,Irwin,PA,15642,(724) 744-7399,Rite Aid #10970 Irwin
+40.32859,-79.6196,ChIJY_D_ITPbNIgRpiNPKlKJBJY,621 Clay Avenue,Jeannette,PA,15644,(724) 527-3888,Rite Aid #00210 Jeannette
+40.26947,-78.8561,ChIJT_6lFxIQy4kRe3JYlDPL8PM,1501 Scalp Avenue,Johnstown,PA,15904,(814) 266-9631,Rite Aid #10979 Johnstown
+40.32304,-78.9547,ChIJe2p5fOkWy4kRG0XUOECoBUA,1759 Goucher Street,Johnstown,PA,15905,(814) 255-6601,Rite Aid #10980 Johnstown
+40.29441,-78.8701,ChIJC4Ggek4Qy4kRF1SkYMCmJ5s,2470 Bedford Street,Johnstown,PA,15904,(814) 266-5150,Rite Aid #04960 Johnstown
+40.32462,-78.9217,ChIJ42dQIzYRy4kRFRCjvw91Hl0,300 Market Street,Johnstown,PA,15901,(814) 536-3544,Rite Aid #00803 Johnstown
+40.30039,-78.9115,ChIJDZlGyt4Qy4kRuypV7bELOws,407 Central Avenue,Johnstown,PA,15902,(814) 536-7596,Rite Aid #04676 Johnstown
+41.67012,-78.8143,ChIJV3_dXxUNzYkR9QuWGiTEKq8,521 North Fraley Street,Kane,PA,16735,(814) 837-6160,Rite Aid #01406 Kane
+39.84497,-75.7209,ChIJHeD9QhlWxokRGqr5MSI5dSU,120 South Mill Road,Kennett Square,PA,19348,(610) 444-5332,Rite Aid #11148 Kennett Square
+40.80527,-79.5262,ChIJWbkS89dXM4gR3GjxEJpyi2I,165 Butler Road,Kittanning,PA,16201,(724) 543-2265,Rite Aid #10998 Kittanning
+40.52705,-75.7687,ChIJSS1GglDSxYkRBP5h62DU6fE,23 North Elm Street,Kutztown,PA,19530,(610) 683-5520,Rite Aid #11169 Kutztown
+41.4041,-75.399,ChIJwT-rG-bGxIkR_XhJVZUOeW8,639 Hamlin Highway,Lake Ariel,PA,18436,(570) 689-4660,Rite Aid #02248 Lake Ariel
+40.03759,-76.3444,ChIJ4aogxzkkxokRmXSgQ1M2yRA,1550 Columbia Avenue,Lancaster,PA,17603,(717) 394-2580,Rite Aid #03620 Lancaster
+40.03939,-76.3055,ChIJl41Bf-0kxokRnPYyt8B6M4U,59 North Queen Street,Lancaster,PA,17603,(717) 397-6179,Rite Aid #00729 Lancaster
+40.04323,-76.2891,ChIJgVR_z74kxokRMhLTMGhhTD4,825A East Chestnut Street,Lancaster,PA,17602,(717) 293-8001,Rite Aid #04684 Lancaster
+40.21623,-74.9307,ChIJEe0Q5oRUwYkR1C-daO2i3Xw,1 Summit Square,Langhorne,PA,19047,(215) 968-4656,Rite Aid #11109 Langhorne
+40.18053,-74.9053,ChIJp7DUjrtTwYkRQdrcY3h3I-M,96 North Flowers Mill Road,Langhorne,PA,19047,(215) 741-1330,Rite Aid #11110 Langhorne
+40.24155,-75.2841,ChIJeeTURs-jxokRkkWlfw9i6g8,10 West Main Street,Lansdale,PA,19446,(215) 855-1100,Rite Aid #00183 Lansdale
+40.25873,-75.2662,ChIJxU4PG1yhxokRFiARdkpnRPU,1856 North Broad Street,Lansdale,PA,19446,(215) 412-9375,Rite Aid #11162 Lansdale
+40.82676,-75.8944,ChIJLV7hVqGwxYkRMEIP9H6f3qQ,480 West Bertsch Street,Lansford,PA,18232,(570) 645-3179,Rite Aid #02422 Lansford
+40.28704,-79.3838,ChIJAZzVZcrSNIgRzkgBvienMwA,1008 Latrobe Thirty Plaza,Latrobe,PA,15650,(724) 539-3353,Rite Aid #10972 Latrobe
+40.31743,-79.3852,ChIJmRyCF1LNNIgRTv9x8LdV7K0,304 Depot Street,Latrobe,PA,15650,(724) 532-3219,Rite Aid #03857 Latrobe
+40.33849,-76.4304,ChIJo4YLh-oCxokR3UVTRxhBoBU,1130 Cumberland Street,Lebanon,PA,17042,(717) 273-2281,Rite Aid #00200 Lebanon
+40.33991,-76.4122,ChIJZb9fl-ECxokRyKTxABDANko,2 Cumberland Street,Lebanon,PA,17042,(717) 272-4663,Rite Aid #00245 Lebanon
+40.33294,-76.4262,ChIJ82X_88MCxokRCaY2e7NjO2c,415 South 9th Street,Lebanon,PA,17042,(717) 273-7687,Rite Aid #11020 Lebanon
+40.81501,-75.7311,ChIJe9dOTDmzxYkRIO3tCyGWjQ0,1241 Blakeslee Blvd Dr,Lehighton,PA,18235,(570) 386-5838,Rite Aid #11059 Lehighton
+40.83639,-75.7081,ChIJKY4F3y1NxIkRtWIWC26aqO0,241 North First Street,Lehighton,PA,18235,(610) 377-4262,Rite Aid #11058 Lehighton
+40.24246,-76.9083,ChIJb8dmk4_ByIkRtmmizlmXufU,1137 Market Street,Lemoyne,PA,17043,(717) 737-3359,Rite Aid #01074 Lemoyne
+40.15279,-74.8567,ChIJUbIHYplRwYkRewehtfUpfUs,6912 New Falls Road,Levittown,PA,19057,(215) 949-3052,Rite Aid #01672 Levittown
+40.17326,-74.8317,ChIJB2Zp5x5RwYkRZEUsj8qvsvs,8716 New Falls Road,Levittown,PA,19054,(215) 945-1212,Rite Aid #00850 Levittown
+40.58432,-79.702,ChIJsaKtS9G9NIgR82cClAVtays,3200 Oregon Drive,Lower Burrell,PA,15068,(724) 339-6686,Rite Aid #10899 Lower Burrell
+40.81288,-76.1425,ChIJqbde70-UxYkRYEbhqRSY7yM,15 West Centre Street,Mahanoy City,PA,17948,(570) 773-1455,Rite Aid #00696 Mahanoy City
+40.04381,-76.7238,ChIJ0cyRtvGRyIkR_XUQBwFtzU4,4135 North George Street Ext,Manchester,PA,17345,(717) 266-6609,Rite Aid #02271 Manchester
+40.69684,-80.0103,ChIJo7r_3weGNIgREAoWCaLJH1Q,129 Grand Ave,Mars,PA,16046,(724) 625-3196,Rite Aid #10988 Mars
+40.46447,-80.0567,ChIJe4GDh8v1NIgRqTY874_Vf74,155 Chartiers Avenue,McKees Rocks,PA,15136,(412) 331-0106,Rite Aid #03527 McKees Rocks
+40.47578,-80.0967,ChIJKe8aXor1NIgRA8EpbRTmRQU,1700 Pine Hollow Road,McKees Rocks,PA,15136,(412) 771-6366,Rite Aid #10914 McKees Rocks
+40.32679,-79.8408,ChIJu7md1dzlNIgRTgzniPYUhQg,3700 Walnut Street,McKeesport,PA,15132,(412) 751-0132,Rite Aid #07843 McKeesport
+40.35256,-79.8574,ChIJh26Oi2HvNIgRpqJU2lBmufE,725 Lysle Boulevard,McKeesport,PA,15132,(412) 672-3853,Rite Aid #01370 McKeesport
+40.26245,-80.133,ChIJ2RRzla9VNIgRRnCOPhrPLSU,4185 Washington Road,McMurray,PA,15317,(724) 942-9111,Rite Aid #10961 McMurray
+41.63654,-80.1538,ChIJP-gXpnJXMogRQeSj2kiBab8,975 Market Street,Meadville,PA,16335,(814) 336-3773,Rite Aid #02380 Meadville
+40.19367,-76.9801,ChIJqScR9UToyIkRVOEFKh_-45c,330 Cumberland Parkway,Mechanicsburg,PA,17055,(717) 796-7685,Rite Aid #02000 Mechanicsburg
+40.23761,-76.9712,ChIJB0ejZozCyIkRyPlrJsIiNkg,4965 Carlisle Pike,Mechanicsburg,PA,17050,(717) 975-0117,Rite Aid #04818 Mechanicsburg
+40.21652,-76.9916,ChIJw-75PxnoyIkRhMwhxX7C0gs,5277 Simpson Ferry Road,Mechanicsburg,PA,17050,(717) 766-2533,Rite Aid #03613 Mechanicsburg
+40.28371,-77.0493,ChIJiTYyQvHcyIkRImVQ7VDPvJA,7036 Wertzville Road,Mechanicsburg,PA,17050,(717) 697-3450,Rite Aid #17783 Mechanicsburg
+39.91478,-75.3795,ChIJQ20LBq_pxokRP8pVjrbqfik,510 East Baltimore Pike,Media,PA,19063,(610) 566-3218,Rite Aid #11113 Media
+40.06375,-75.1391,ChIJ_8rCTUS3xokRats4N27NPlw,1401 West Cheltenham Avenue,Melrose Park,PA,19027,(215) 782-8950,Rite Aid #02797 Melrose Park
+41.2303,-80.2393,ChIJW1kpvgOjM4gR5usfOsIyAf0,100 Franklin Street,Mercer,PA,16137,(724) 662-2009,Rite Aid #02769 Mercer
+40.20086,-76.7249,ChIJieDC3_q9yIkRLhnA5b6JQkg,360 East Main Street,Middletown,PA,17057,(717) 944-0262,Rite Aid #04287 Middletown
+40.63636,-80.4515,ChIJ1ZW3UlJrNIgR5P3HbJtof9o,847 Midland Avenue,Midland,PA,15059,(724) 643-6520,Rite Aid #02480 Midland
+40.68119,-76.254,ChIJJ_PRgwXuxYkRP9DtKbkdMGU,44 Kings Village,Minersville,PA,17954,(570) 544-8290,Rite Aid #02693 Minersville
+40.15988,-79.8768,ChIJK7EgzgcdNYgRaRuyoDrzbiw,10 Donner Avenue,Monessen,PA,15062,(724) 684-0153,Rite Aid #02466 Monessen
+40.20355,-79.9281,ChIJzXadUVD9NIgRMoA0JxvQXcU,446 West Main Street,Monongahela,PA,15063,(724) 258-6161,Rite Aid #01197 Monongahela
+40.4392,-79.7678,ChIJ7Quyqz7qNIgRB01GEZMM6T0,4111 William Penn Hwy,Monroeville,PA,15146,(412) 372-5288,Rite Aid #10917 Monroeville
+40.3898,-79.7672,ChIJyU9kuLbpNIgR3-YC9jpXBCA,4534 Broadway Blvd,Monroeville,PA,15146,(412) 373-5420,Rite Aid #10919 Monroeville
+41.2474,-76.9161,ChIJ4bsk7lShz4kR5ORd5EVtnus,760 Broad Street,Montoursville,PA,17754,(570) 368-2629,Rite Aid #11037 Montoursville
+41.83984,-75.8618,ChIJ-93Ag4Xa2okRHyaOhKmf3Gs,801 Grow Avenue,Montrose,PA,18801,(570) 278-9602,Rite Aid #11082 Montrose
+40.15568,-75.8909,ChIJ61NYoRlmxokR0kFTLIbwGrQ,3145 Main Street,Morgantown,PA,19543,(610) 286-0920,Rite Aid #07861 Morgantown
+40.2054,-74.8041,ChIJzQCugzhXwYkRLdFhVFbfAIs,547 West Trenton Avenue,Morrisville,PA,19067,(215) 736-9501,Rite Aid #11115 Morrisville
+41.30736,-75.5132,ChIJodCOiBroxIkRTQG5L9nxaUI,6 Bochicchio Boulevard,Moscow,PA,18444,(570) 842-6766,Rite Aid #00216 Moscow
+40.12642,-79.5509,ChIJw_ciYnsoNYgRdxepvahlW9g,120 Country Side Plaza,Mount Pleasant,PA,15666,(724) 547-5590,Rite Aid #10973 Mount Pleasant
+40.38294,-77.8793,ChIJjRA_VN5eyYkRRgHae38UkjE,101 East Shirley Street,Mt Union,PA,17066,(814) 542-8003,Rite Aid #01495 Mt Union
+40.40966,-79.9026,ChIJLz0g4jvuNIgRpuWFy6Auu9Y,100 William Marks Drive,Munhall,PA,15120,(412) 461-4699,Rite Aid #04682 Munhall
+41.20484,-76.0043,ChIJf-PGH-YNxYkRkuRPeSLm5NM,5 East Main Street,Nanticoke,PA,18634,(570) 735-4324,Rite Aid #00218 Nanticoke
+40.46765,-78.8357,ChIJ18HlK3hyy4kRbc6XyjNfZH8,1303 Shoemaker Street,Nanty Glo,PA,15943,(814) 749-7872,Rite Aid #03364 Nanty Glo
+40.00902,-75.2546,ChIJHSczg6nAxokRlTWWlVaIKAg,640 Montgomery Avenue,Narberth,PA,19072,(610) 664-4010,Rite Aid #01320 Narberth
+40.62109,-79.7292,ChIJcZNSsIK9NIgRy19meyIYLKI,1529 Freeport Road,Natrona Heights,PA,15065,(724) 226-4725,Rite Aid #04419 Natrona Heights
+40.73283,-75.3133,ChIJawIEXyFqxIkRss_peHx2x1k,102 Easton Road,Nazareth,PA,18064,(610) 759-6066,Rite Aid #01983 Nazareth
+41.00192,-79.3263,ChIJb34LDaOzzIkRvgT8JNtdWfo,610 Broad Street,New Bethlehem,PA,16242,(814) 275-4241,Rite Aid #01548 New Bethlehem
+40.735,-80.3136,ChIJ907rpUlwNIgRgG423p7cGEA,813 Third Avenue,New Brighton,PA,15066,(724) 843-5440,Rite Aid #02433 New Brighton
+40.29687,-75.1907,ChIJkUWew6SnxokR5o3WYDV56YE,306 Town Center,New Britain,PA,18901,(215) 348-3200,Rite Aid #00186 New Britain
+41.01879,-80.3538,ChIJ4Xc5jhKOM4gRxsTCNaCS1sg,1730 Wilmington Road,New Castle,PA,16105,(724) 658-1515,Rite Aid #10991 New Castle
+41.00079,-80.3477,ChIJiy_zN2GOM4gROkZHIMjiB9s,31 North Jefferson Street,New Castle,PA,16101,(724) 652-0981,Rite Aid #10990 New Castle
+40.22285,-76.8603,ChIJx15w_znAyIkR5Ej3ZK2FUjk,105 Old York Road,New Cumberland,PA,17070,(717) 774-0261,Rite Aid #00418 New Cumberland
+40.56427,-79.7545,ChIJ-TEI0eyVNIgR0JAIVHceDUg,700 Stevenson Blvd,New Kensington,PA,15068,(724) 335-4111,Rite Aid #10900 New Kensington
+39.86671,-77.042,ChIJ0YyJCqdXyIkRdE6eKt19xng,5675 York Road,New Oxford,PA,17350,(717) 624-8080,Rite Aid #03602 New Oxford
+41.12162,-80.3328,ChIJYeMnJM6WM4gR9y4q0SlNIyc,135 South Market Street,New Wilmington,PA,16142,(724) 946-3531,Rite Aid #10994 New Wilmington
+40.49371,-77.1132,ChIJ4b6kkg3UyIkR-WY_EIP5tgo,10 Newport Plaza,Newport,PA,17074,(717) 567-6670,Rite Aid #03804 Newport
+40.23531,-74.9386,ChIJVTLQ_-tUwYkRtll1oZ_32o4,1 Ice Cream Alley,Newtown,PA,18940,(215) 579-0864,Rite Aid #11089 Newtown
+40.33062,-79.7404,ChIJUxwfAvjnNIgR1CidRqSLSNE,10 Clay Pike,North Huntingdon,PA,15642,(724) 863-2350,Rite Aid #10969 North Huntingdon
+40.31973,-79.6941,ChIJ0Y0rb9_cNIgRPx1v9W2esug,8775 Norwin Avenue,North Huntingdon,PA,15642,(724) 863-9074,Rite Aid #10968 North Huntingdon
+40.68516,-75.4962,ChIJv4fUG4lHxIkRji5onGM2OAM,1620 Main Street,Northampton,PA,18067,(610) 262-2022,Rite Aid #01768 Northampton
+40.66353,-78.7824,ChIJXaG0snp8y4kRcUD75vQiOlw,1120 Philadelphia Avenue,Northern Cambria,PA,15714,(814) 948-6102,Rite Aid #01494 Northern Cambria
+40.51263,-79.8429,ChIJRXwaF02TNIgRGiJzpYUs9Go,109 Allegheny River Blvd,Oakmont,PA,15139,(412) 828-1530,Rite Aid #10915 Oakmont
+41.42717,-79.7049,ChIJF0G3bFAgM4gRuGvEtI0FH98,508 East Second Street,Oil City,PA,16301,(814) 677-2215,Rite Aid #01496 Oil City
+41.47079,-75.6074,ChIJ423ENBfaxIkRzvGct40OnI8,1650 Main Street,Olyphant,PA,18447,(570) 489-8834,Rite Aid #01426 Olyphant
+39.79415,-75.9755,ChIJ4So_4rtMxokRALDiW4BFtTU,455 North 3rd Street,Oxford,PA,19363,(610) 932-5200,Rite Aid #00321 Oxford
+40.80548,-75.6016,ChIJTdc2lI1OxIkRYxn-AD9XApQ,601 Delaware Avenue,Palmerton,PA,18071,(610) 826-2600,Rite Aid #01450 Palmerton
+40.31397,-76.5809,ChIJs5M0D72lyIkR7Q-1Kalom0k,980 East Main Street,Palmyra,PA,17078,(717) 838-8878,Rite Aid #01662 Palmyra
+40.47814,-79.7853,ChIJLxVueR3rNIgRhO9nqoffYvE,7345 Saltsburg Road,Penn Hills,PA,15235,(412) 798-2344,Rite Aid #10947 Penn Hills
+40.39914,-75.497,ChIJvb4_wLMnxIkR5BAGNpT6r44,350 Main Street,Pennsburg,PA,18073,(215) 679-4411,Rite Aid #00443 Pennsburg
+40.36394,-75.297,ChIJc1VoerMfxIkRsMsZN2DN1yw,519 Constitution Avenue,Perkasie,PA,18944,(215) 453-7540,Rite Aid #11090 Perkasie
+40.13195,-75.5359,ChIJ546njwaOxokRjIB4TVyw05c,200 Kimberton Road,Phoenixville,PA,19460,(610) 935-2020,Rite Aid #11165 Phoenixville
+40.38079,-75.1451,ChIJicul5UgDxIkRU3XcAXXWvFE,5707 Easton Road,Pipersville,PA,18947,(215) 766-7350,Rite Aid #11091 Pipersville
+40.44075,-80.0039,ChIJt-i9IlTxNIgREZUGS0H9T30,100 Forbes Avenue,Pittsburgh,PA,15222,(412) 338-8614,Rite Aid #06712 Pittsburgh
+40.49594,-80.255,ChIJ-VHAr8JcNIgRtlC_-vsqz8Y,1000 Airport Blvd,Pittsburgh,PA,15231,(412) 472-5040,Rite Aid #10941 Pittsburgh
+40.37505,-80.0693,ChIJH7Y6sY73NIgRe5Cv2UJIBRE,1121 Bower Hill Road,Pittsburgh,PA,15243,(412) 923-1550,Rite Aid #10956 Pittsburgh
+40.48845,-79.8814,ChIJ6640lZztNIgRS1K0pm_X448,1125 Freeport Road,Pittsburgh,PA,15238,(412) 782-2277,Rite Aid #10954 Pittsburgh
+40.54772,-80.0355,ChIJj5apGT6LNIgReMUuvFkCsHc,1130 Perry Highway,Pittsburgh,PA,15237,(412) 369-4267,Rite Aid #10953 Pittsburgh
+40.40318,-79.9904,ChIJdanXnyDxNIgRWqqzZuThhI0,1222 Brownsville Rd,Pittsburgh,PA,15210,(412) 884-3356,Rite Aid #10926 Pittsburgh
+40.43782,-79.9232,ChIJ_x3R3gHyNIgRK0HA1-5ITPI,1700 Murray Avenue,Pittsburgh,PA,15217,(412) 521-3900,Rite Aid #00274 Pittsburgh
+40.48653,-79.9267,ChIJNatH7oTyNIgR_2Ru2tCqWuU,1800-1814 Morningside Avenue,Pittsburgh,PA,15206,(412) 362-6121,Rite Aid #03412 Pittsburgh
+40.4466,-79.7132,ChIJXccAdbnBNIgRYJMuw_xxJ8c,1804 Golden Mile Highway,Pittsburgh,PA,15239,(724) 327-4850,Rite Aid #10955 Pittsburgh
+40.4289,-79.9784,ChIJLdqs9m7xNIgRXg4WIp7tmP0,1915-1921 East Carson Street,Pittsburgh,PA,15203,(412) 481-8818,Rite Aid #10921 Pittsburgh
+40.44039,-80.0697,ChIJV6Y7_nH2NIgRU7gQ2uivW44,200 Crafton Ingram S/C,Pittsburgh,PA,15205,(412) 921-5755,Rite Aid #10922 Pittsburgh
+40.43056,-80.01,ChIJ36niXLP2NIgRBcy3kVWEOpY,201 Grace Street,Pittsburgh,PA,15211,(412) 381-1464,Rite Aid #04965 Pittsburgh
+40.44093,-79.9571,ChIJBZJW5ynyNIgRALs1LzD0fdM,209 Atwood Street,Pittsburgh,PA,15213,(412) 621-1920,Rite Aid #00272 Pittsburgh
+40.39167,-79.9871,ChIJrz8Ku8LwNIgRbJAMatPDHCg,2150 Brownsville Rd,Pittsburgh,PA,15210,(412) 881-6439,Rite Aid #10925 Pittsburgh
+40.42846,-80.0543,ChIJo6jG5F_2NIgRid_mAGVKsR8,2270 Noblestown Road,Pittsburgh,PA,15205,(412) 920-6190,Rite Aid #07924 Pittsburgh
+40.41451,-79.9875,ChIJ9VPzaz3xNIgRG8lY0eBbw4o,230 Hays Avenue,Pittsburgh,PA,15210,(412) 431-8282,Rite Aid #00269 Pittsburgh
+40.41523,-79.849,ChIJaYLDiL7uNIgR8VkYvl45v8o,2336 Ardmore Boulevard,Pittsburgh,PA,15221,(412) 273-3487,Rite Aid #10934 Pittsburgh
+40.40639,-80.0344,ChIJk3TULx73NIgRrVXxDTwURsk,2501 Banksville Road,Pittsburgh,PA,15216,(412) 571-2550,Rite Aid #10931 Pittsburgh
+40.38173,-79.9952,ChIJyS_mW7jwNIgRL47FLYXNxgg,2501 Saw Mill Run Blvd,Pittsburgh,PA,15234,(412) 882-0500,Rite Aid #10943 Pittsburgh
+40.42738,-79.9671,ChIJm4JZjHbxNIgRumLcwyoTEds,2655 E Carson Street,Pittsburgh,PA,15203,(412) 431-6773,Rite Aid #00273 Pittsburgh
+40.39948,-80.0453,ChIJeyEZpwX3NIgRsqC5ziqX13c,3210 Banksville Road,Pittsburgh,PA,15216,(412) 388-1601,Rite Aid #01094 Pittsburgh
+40.42911,-79.8128,ChIJ16cWi-HrNIgR9N6u42UIM78,3434 William Penn Highway,Pittsburgh,PA,15235,(412) 824-8860,Rite Aid #10945 Pittsburgh
+40.44104,-79.9573,ChIJ9_Lt5inyNIgRhUW8Sdr0yc8,3700 Forbes Avenue,Pittsburgh,PA,15213,(412) 681-1332,Rite Aid #10930 Pittsburgh
+40.48412,-80.0352,ChIJA9hN6l70NIgRY0pr5WXAUpM,3730 Brighton Road,Pittsburgh,PA,15212,(412) 761-3363,Rite Aid #10929 Pittsburgh
+40.46905,-79.9633,ChIJP4VJJk3yNIgRG40gEAtvY2A,3939 Butler Street,Pittsburgh,PA,15201,(412) 682-6970,Rite Aid #02798 Pittsburgh
+40.37045,-80.0329,ChIJIevyw2D3NIgR7fQdL_C1t7I,410 Cooke Lane,Pittsburgh,PA,15234,(412) 563-1505,Rite Aid #10942 Pittsburgh
+40.46469,-79.9528,ChIJeXZ0HUbyNIgRXUyeFHrR5jM,4411 Howley Street,Pittsburgh,PA,15224,(412) 621-9987,Rite Aid #10939 Pittsburgh
+40.5204,-80.0045,ChIJ6WGooVbzNIgRs7hX9ZBDbJo,4770 McKnight Road,Pittsburgh,PA,15237,(412) 364-8100,Rite Aid #11916 Pittsburgh
+40.40898,-79.9441,ChIJqYMvgbfxNIgRVls68XYAS7U,4934 Second Avenue,Pittsburgh,PA,15207,(412) 421-6948,Rite Aid #03404 Pittsburgh
+40.52161,-80.0345,ChIJxdwUDcn0NIgRaoWZ29cLgW8,513 Perry Highway,Pittsburgh,PA,15229,(412) 931-7751,Rite Aid #10940 Pittsburgh
+40.46165,-79.9084,ChIJlzwsB47tNIgRrhE5s6b-QcM,535 Lincoln Avenue,Pittsburgh,PA,15202,(412) 761-1890,Rite Aid #10920 Pittsburgh
+40.33693,-79.9797,ChIJP_fR80P6NIgRWmdOjPdgzXg,5410 Keeport Drive,Pittsburgh,PA,15236,(412) 655-9455,Rite Aid #10949 Pittsburgh
+40.45103,-79.9335,ChIJPwBF_hDyNIgRTNVwz0Qz0u8,5504 Walnut Street,Pittsburgh,PA,15232,(412) 681-5144,Rite Aid #00268 Pittsburgh
+40.45866,-79.9343,ChIJm6VYNBPyNIgRxDurED1Xcbk,5633 Baum Boulevard,Pittsburgh,PA,15206,(412) 441-6991,Rite Aid #10924 Pittsburgh
+40.35859,-80.0016,ChIJOWUslmD3NIgRJV8LQpfctko,568 Caste Village,Pittsburgh,PA,15236,(412) 881-5650,Rite Aid #10950 Pittsburgh
+40.48457,-79.8174,Eiw2MjAwIFNhbHRzYnVyZyBSZCwgUGl0dHNidXJnaCwgUEEgMTUyMzUsIFVTQSIxEi8KFAoSCSk5dL5o6zSIEZM81ICO6UMLELgwKhQKEgmV2OcIZsA0iBGirq0eQno6cA,6200 Saltsburg Road,Pittsburgh,PA,15235,(412) 798-0490,Rite Aid #10946 Pittsburgh
+40.44199,-79.9979,ChIJrWOkhlfxNIgRvN0ekLJw5hA,623 Smithfield Street,Pittsburgh,PA,15222,(412) 471-8885,Rite Aid #10937 Pittsburgh
+40.45367,-79.9983,ChIJz7JapfrzNIgRZjQQCNRLrTI,623-625 East Ohio Street,Pittsburgh,PA,15212,(412) 322-1566,Rite Aid #10928 Pittsburgh
+40.45637,-80.0158,ChIJUZT9Zw_0NIgRv8coQlJaPXU,802 Pennsylvania Avenue,Pittsburgh,PA,15233,(412) 231-0868,Rite Aid #03459 Pittsburgh
+40.51076,-79.9457,ChIJNdeNu8jyNIgRHzpc5T5R6gs,880 Butler Street,Pittsburgh,PA,15223,(412) 782-2466,Rite Aid #10938 Pittsburgh
+40.51528,-79.9589,ChIJHYxittbyNIgR175rRmNRmVQ,900 Mount Royal Blvd,Pittsburgh,PA,15223,(412) 487-5706,Rite Aid #01944 Pittsburgh
+41.32473,-75.7898,ChIJU4xxgTsfxYkRd0ELdtG-FzU,102 North Main Street,Pittston,PA,18640,(570) 655-4030,Rite Aid #01371 Pittston
+41.32068,-75.7719,ChIJ0zs74g8fxYkRG7zH2JzjeQI,120 Laurel Plaza,Pittston,PA,18640,(570) 655-9920,Rite Aid #11075 Pittston
+41.8118,-78.2813,ChIJH0JQIrjyzYkRLVdYaJrgtvg,59 North Main Street,Port Allegany,PA,16743,(814) 642-5021,Rite Aid #02474 Port Allegany
+40.38687,-78.6733,ChIJwfw2-rsKy4kRQ6wqEQgX7HU,630 Main St,Portage,PA,15946,(814) 736-4323,Rite Aid #01549 Portage
+40.22344,-75.6594,ChIJ1btSdoKIxokRwuH-WSBFfu8,1140 Town Square Rd,Pottstown,PA,19465,(610) 323-4080,Rite Aid #11166 Pottstown
+40.24467,-75.6465,ChIJtYYUrEGGxokRrCJea2_CIzk,340 East High Street,Pottstown,PA,19464,(610) 326-1255,Rite Aid #00819 Pottstown
+40.68503,-76.1943,ChIJ_wJ6vabuxYkRPa5DDk2MDMY,10 South Center Street,Pottsville,PA,17901,(570) 628-2537,Rite Aid #00507 Pottsville
+40.69297,-76.1918,EjE1MDAgQ2xhdWRlIEEgTG9yZCBCbHZkLCBQb3R0c3ZpbGxlLCBQQSAxNzkwMSwgVVNBIjESLwoUChIJy2-PURzsxYkRdzRikdrWzpcQ9AMqFAoSCSdoOPCm7sWJEarR9qvAanu0,500 N Claude Lord Boulevard,Pottsville,PA,17901,(570) 622-2224,Rite Aid #00873 Pottsville
+39.88228,-75.3054,ChIJbTUL4-XCxokR9c0dwDURKfY,762 Chester Pike,Prospect Park,PA,19076,(610) 461-8852,Rite Aid #00856 Prospect Park
+40.94261,-78.9727,ChIJSWbz5weXzIkR3Zc9akWiRG0,201 West Mahoning Street,Punxsutawney,PA,15767,(814) 938-9161,Rite Aid #10975 Punxsutawney
+40.41763,-75.345,ChIJG4j2OvwhxIkRErSW6kaSy8Q,1080 S West End Blvd,Quakertown,PA,18951,(215) 529-4190,Rite Aid #07827 Quakertown
+40.44374,-75.3575,ChIJK13MGUkjxIkRxR-f9HO1yec,1465-15 West Broad Street,Quakertown,PA,18951,(215) 536-7651,Rite Aid #11092 Quakertown
+39.89351,-76.17,ChIJ0Rn-M642xokRMxv91Sm2Ydk,315 West Fourth Street,Quarryville,PA,17566,(717) 786-9091,Rite Aid #01922 Quarryville
+40.32812,-75.8771,ChIJbesFeR96xokRx2ahGi7NuZk,2962 St Lawrence Avenue,Reading,PA,19606,(610) 779-3120,Rite Aid #11173 Reading
+40.38259,-75.927,ChIJO0Bq26N3xokRQc9YMEu3DBE,3215 5th Street Highway,Reading,PA,19605,(610) 929-9775,Rite Aid #11171 Reading
+40.33506,-75.9292,ChIJaZh-gMxwxokR1xV2bFUPVFE,418 Penn Street,Reading,PA,19602,(610) 373-4511,Rite Aid #11170 Reading
+40.30564,-75.8607,ChIJ8aGqEkl6xokRDoJ6yXZBaU0,4630 Perkiomen Avenue,Reading,PA,19606,(610) 779-3266,Rite Aid #11172 Reading
+40.34385,-75.9261,ChIJUSvU-TZ3xokRMVeql03mpS8,524 North 6th Street,Reading,PA,19601,(610) 374-6282,Rite Aid #01581 Reading
+40.29735,-75.9495,ChIJNa_kVKpxxokRNbUPLZK0AdQ,670 Philadelphia Avenue,Reading,PA,19607,(610) 777-8278,Rite Aid #02591 Reading
+39.91583,-76.6284,ChIJj2Wk3TyGyIkRsuBFqfplwgE,3205 Cape Horn Road,Red Lion,PA,17356,(717) 246-1322,Rite Aid #11029 Red Lion
+39.89614,-76.6229,ChIJWUw6bsuHyIkR-GzDHDgMdMI,910 West Broadway,Red Lion,PA,17356,(717) 244-2919,Rite Aid #01640 Red Lion
+40.21694,-75.0093,ChIJZzH9eYGsxokR8dPsvK_6bEA,1039 2nd Street Pike,Richboro,PA,18954,(215) 355-7177,Rite Aid #11093 Richboro
+41.42102,-78.7335,ChIJkxP412gBzYkR-FDNdPzqw6E,101 Main Street,Ridgway,PA,15853,(814) 776-1428,Rite Aid #02476 Ridgway
+40.33726,-78.3889,ChIJ31jhENS9y4kRl-tGhC21lng,94 June Drive,Roaring Spring,PA,16673,(814) 224-5553,Rite Aid #06742 Roaring Spring
+40.70287,-80.2867,ChIJAYAe3_pvNIgRgkXSkI3Nvv4,351 Brighton Avenue,Rochester,PA,15074,(724) 774-3360,Rite Aid #10901 Rochester
+40.19082,-75.5314,ChIJKT40E-GPxokROfTAzhsYNUw,820 Main Street,Royersford,PA,19468,(610) 948-0838,Rite Aid #03495 Royersford
+41.40803,-78.56,ChIJ82q0UnOszYkR-IF7xbA0KxU,901 S Saint Marys Street,Saint Marys,PA,15857,(814) 834-4515,Rite Aid #07853 Saint Marys
+41.97149,-76.5399,ChIJOdgM1DcJ0IkRK5eGPOjq5kM,1593 Elmira Street,Sayre,PA,18840,(570) 888-2369,Rite Aid #11083 Sayre
+41.99031,-76.5455,ChIJB_IapFUJ0IkRPw_CiPfAgSA,2968 Elmira Street,Sayre,PA,18840,(570) 888-2572,Rite Aid #00561 Sayre
+41.5306,-75.6491,ChIJGQYG5eHWxIkRF7vKlKkOdqs,580 Carbondale Road,Scott Township,PA,18447,(570) 586-2749,Rite Aid #03470 Scott Township
+40.10153,-79.5873,ChIJY0L7y2smNYgRXCXQVX1fifI,15 Centennial Way,Scottdale,PA,15683,(724) 887-4727,Rite Aid #01709 Scottdale
+41.39892,-75.6753,ChIJG-LMsSPfxIkRbFESrT15K5g,1080 S Washington Avenue,Scranton,PA,18505,(570) 346-5924,Rite Aid #00726 Scranton
+41.44596,-75.668,ChIJk7F9Zf3YxIkRNvXH8M55DOI,1777 North Keyser Avenue,Scranton,PA,18508,(570) 346-2087,Rite Aid #11069 Scranton
+41.40825,-75.6639,ChIJIRyTjdbexIkR7ZbCj-0eZzs,201 North Washington Avenue,Scranton,PA,18503,(570) 343-7301,Rite Aid #00501 Scranton
+41.4163,-75.6756,ChIJxdo4L9PYxIkRdKLIzoymgOI,500 North Main Avenue,Scranton,PA,18504,(570) 342-6411,Rite Aid #03775 Scranton
+40.68905,-80.0564,ChIJT09fCH-INIgRToFbI4d6oTU,100 Seven Fields Blvd,Seven Fields,PA,16046,(724) 742-0909,Rite Aid #10987 Seven Fields
+40.5401,-80.1795,ChIJaaLBewJeNIgRfeItxNp5XXY,517 Beaver Street,Sewickley,PA,15143,(412) 741-9250,Rite Aid #10916 Sewickley
+40.79068,-76.5574,ChIJVzPHp91dz4kRLFyPu35IcgY,26 West Independence Street,Shamokin,PA,17872,(570) 648-1021,Rite Aid #00205 Shamokin
+41.23186,-80.512,ChIJEx9FSrjBM4gR33vaX23kWyM,60 South Water Street,Sharon,PA,16146,(724) 981-4072,Rite Aid #01071 Sharon
+41.23347,-80.4943,ChIJYQo4BEzAM4gRjAJvZh_1m6c,811 East State Street,Sharon,PA,16146,(724) 342-4680,Rite Aid #03972 Sharon
+41.26578,-80.4747,ChIJY18fepXAM4gRsQQZTk4w-zg,64 North Mercer Ave,Sharpsville,PA,16150,(724) 962-5771,Rite Aid #10996 Sharpsville
+41.32321,-75.9435,ChIJK34O4gIXxYkR-AM8zGFk2R4,2810 Memorial Highway,Shavertown,PA,18708,(570) 675-2383,Rite Aid #02568 Shavertown
+40.81999,-76.2006,ChIJR5bO75eTxYkREQt95ObISKw,15 South Main Street,Shenandoah,PA,17976,(570) 462-1924,Rite Aid #00208 Shenandoah
+40.3205,-77.1655,ChIJb3b2fjPfyIkRIMggtqqxVhc,5201 Spring Road,Shermans Dale,PA,17090,(717) 582-7781,Rite Aid #04286 Shermans Dale
+40.30716,-75.9565,ChIJSfTUlQVxxokRaDkPqXyEPL8,500 East Lancaster Avenue,Shillington,PA,19607,(610) 775-0307,Rite Aid #00290 Shillington
+40.04387,-77.5206,ChIJV3FHQYEMyYkRJBaap7hRxno,300 S Fayette Street,Shippensburg,PA,17257,(717) 530-9111,Rite Aid #11023 Shippensburg
+39.75333,-76.6758,ChIJY5sm4u9kyIkRjd6X5r_BYTM,577 South Main Street,Shrewsbury,PA,17361,(717) 235-6854,Rite Aid #11030 Shrewsbury
+40.32637,-76.0497,ChIJm-qFEQ5zxokRvkgqHKWc3g0,4810 Penn Avenue,Sinking Spring,PA,19608,(610) 670-9986,Rite Aid #01975 Sinking Spring
+41.07077,-80.0525,ChIJG1ttTPV2M4gRQCv2E7pTpkk,221 Grove City Road,Slippery Rock,PA,16057,(724) 794-6365,Rite Aid #01698 Slippery Rock
+40.31587,-75.3081,ChIJy6PZG0OgxokRiaH3PETbr2I,741 Route 113,Souderton,PA,18964,(215) 723-5553,Rite Aid #00185 Souderton
+40.32047,-75.3072,ChIJRyN3b2igxokRDINVYrH_TZM,780 Route 113,Souderton,PA,18964,(215) 723-0953,Rite Aid #11095 Souderton
+40.28984,-80.0272,ChIJRRCp3kv5NIgRQtvCN-2gEs0,6375 Library Road,South Park,PA,15129,(412) 831-8350,Rite Aid #01589 South Park
+39.88533,-76.861,ChIJibmAVn31yIkRarbt8CmaPPo,2067 Route 116,Spring Grove,PA,17362,(717) 225-5227,Rite Aid #01902 Spring Grove
+39.92745,-75.3338,ChIJw0w36g7CxokRPKY0Chs-f7Q,170 Saxer Avenue,Springfield,PA,19064,(610) 543-1153,Rite Aid #02631 Springfield
+40.8066,-77.8917,ChIJUdI8I9enzokRRUb2GSAf0sI,1536 North Atherton Street,State College,PA,16803,(814) 237-4133,Rite Aid #11014 State College
+40.7863,-77.8327,ChIJNYQDdlKvzokR59qy5Vvopq0,1927 South Atherton Street,State College,PA,16801,(814) 237-1625,Rite Aid #00793 State College
+40.78198,-77.8526,ChIJlypiPrmozokRdL1v4r-12Ws,510 Westerly Parkway,State College,PA,16801,(814) 238-1862,Rite Aid #11013 State College
+40.23366,-76.8385,ChIJKUogxG_AyIkRgpNbv51KC5I,124 South Front Street,Steelton,PA,17113,(717) 939-7235,Rite Aid #01304 Steelton
+39.76015,-76.59,ChIJB1Dqh5x7yIkRkYecm7esL8o,4 Ballast Lane,Stewartstown,PA,17363,(717) 993-2557,Rite Aid #11031 Stewartstown
+40.79503,-75.9675,ChIJs_HWbxa5xYkRhAMyOhHr8Ks,205 Center Street,Tamaqua,PA,18252,(570) 668-6989,Rite Aid #11060 Tamaqua
+41.62748,-79.6708,ChIJNQTTM0fDMogRnqYKdGfBPK8,208 East Central Avenue,Titusville,PA,16354,(814) 827-7083,Rite Aid #04616 Titusville
+41.76705,-76.4228,ChIJZ3notuiq2okRBeaTUz6F358,148 Ennis Lane,Towanda,PA,18848,(570) 265-4769,Rite Aid #11084 Towanda
+41.78234,-76.451,ChIJHTrHMYGq2okRnevHljjOCrE,77 Reuters Boulevard,Towanda,PA,18848,(570) 265-7882,Rite Aid #01830 Towanda
+40.15367,-74.9739,ChIJ24n2jEmtxokRQOAf1lg82qc,1860 Brownsville Road,Trevose,PA,19053,(215) 322-4107,Rite Aid #00923 Trevose
+41.54219,-75.9625,ChIJHd2H3pAwxYkRmEOp2gjvXhA,420 Tioga West Plz,Tunkhannock,PA,18657,(570) 836-2812,Rite Aid #11076 Tunkhannock
+40.67569,-78.2382,ChIJyT4LRYb1y4kRw-NRKoJh69Y,1365 Logan Avenue,Tyrone,PA,16686,(814) 684-5000,Rite Aid #06739 Tyrone
+39.90049,-79.7069,ChIJgxpv3U8-NYgRYIKkYbHRurM,262 Connellsville Street,Uniontown,PA,15401,(724) 438-9799,Rite Aid #01963 Uniontown
+39.88468,-79.7342,ChIJV7A3qdA_NYgR8hdGkOh1-ew,575 Morgantown Road,Uniontown,PA,15401,(724) 437-2140,Rite Aid #10962 Uniontown
+39.95806,-75.2575,ChIJU00F7zDBxokR6cM1NuCS2G0,123 South 69th Street,Upper Darby,PA,19082,(610) 352-5300,Rite Aid #00679 Upper Darby
+39.95411,-75.2756,ChIJRXPDyRTBxokR3-k6cgwycQA,1500 Garrett Road,Upper Darby,PA,19082,(610) 284-3232,Rite Aid #11117 Upper Darby
+40.75585,-75.5945,ChIJDYCsUj5JxIkRRlAl9ovJ3FA,200 South Best Avenue,Walnutport,PA,18088,(610) 767-9595,Rite Aid #11049 Walnutport
+40.20554,-75.0993,ChIJU8lxNOSuxokR7kNBtXkBqjU,599 York Road,Warminster,PA,18974,(215) 674-0122,Rite Aid #00293 Warminster
+40.23117,-75.1402,ChIJizLmfE6vxokR2Vyn50xe4D4,642 Easton Road,Warrington,PA,18976,(215) 343-2490,Rite Aid #11097 Warrington
+40.18229,-80.2651,ChIJea7QM52tNYgRetwbFuTktR8,1001 Jefferson Avenue,Washington,PA,15301,(724) 223-4971,Rite Aid #02545 Washington
+40.16411,-80.2734,ChIJGZ4S0vStNYgRdv8ZIm11pcs,1396 West Chestnut St,Washington,PA,15301,(724) 228-0059,Rite Aid #10958 Washington
+40.04404,-75.3824,EikyMzcgRSBMYW5jYXN0ZXIgQXZlLCBXYXluZSwgUEEgMTkwODcsIFVTQSIxEi8KFAoSCUO8C1whlcaJEcTqd-ll0DCCEO0BKhQKEgmRi5i0vfXGiREChH5Jh3mTJw,237 East Lancaster Avenue,Wayne,PA,19087,(610) 293-1496,Rite Aid #00995 Wayne
+39.74584,-77.5533,ChIJgxszYI69yYkR3hBFwqFwGnQ,1513 East Main Street,Waynesboro,PA,17268,(717) 762-9676,Rite Aid #11024 Waynesboro
+39.89576,-80.1686,ChIJD4ikL-GhNYgR1kU6W37Bmdw,1440 East High Street,Waynesburg,PA,15370,(724) 627-9849,Rite Aid #00926 Waynesburg
+41.74808,-77.2965,ChIJNfGG6aIuzokRUKx5TleWkBg,24 East Avenue,Wellsboro,PA,16901,(570) 724-4461,Rite Aid #11016 Wellsboro
+39.96074,-75.6035,ChIJF-3CIETxxokRMFupctZMAlc,13 East Gay Street,West Chester,PA,19380,(610) 696-0409,Rite Aid #11154 West Chester
+40.00897,-75.5903,ChIJwbXjH6TzxokRVdHFAG4FDA8,1307 Phoenixville Pike,West Chester,PA,19380,(484) 356-9330,Rite Aid #07831 West Chester
+39.9672,-75.5253,ChIJv6Mosf_txokRdHpgQahigPo,1535 West Chester Pike,West Chester,PA,19382,(484) 356-9480,Rite Aid #11153 West Chester
+39.97055,-75.5875,ChIJz7wLGWPxxokRD4llSdRJDNI,927 Paoli Pike,West Chester,PA,19380,(610) 696-0818,Rite Aid #11152 West Chester
+40.38208,-79.8766,ChIJbdWtyKfvNIgRu33M8O2y-sM,4927 Homeville Road,West Mifflin,PA,15122,(412) 469-2220,Rite Aid #10910 West Mifflin
+40.21196,-79.7706,ChIJJx5tK1vgNIgR0i1nHhWmdyg,113 West Main Street,West Newton,PA,15089,(724) 872-6401,Rite Aid #01814 West Newton
+41.32464,-75.8059,ChIJCSSuszIfxYkRNSlfYZq1oXA,801 Wyoming Avenue,West Pittston,PA,18643,(570) 654-6689,Rite Aid #01685 West Pittston
+40.3363,-75.9479,ChIJZzpVQipxxokR96B39beYgB0,525 Penn Avenue,West Reading,PA,19611,(610) 373-5241,Rite Aid #00467 West Reading
+40.61732,-80.0911,ChIJBbBhavmJNIgRhgnyvaD0c5Q,201 Devine Drive,Wexford,PA,15090,(724) 935-1880,Rite Aid #07825 Wexford
+41.05863,-75.7719,ChIJj7lXfJ4BxYkR7V0ZfuvZB88,501 Main Street,White Haven,PA,18661,(570) 443-9519,Rite Aid #01314 White Haven
+40.33651,-79.8093,ChIJxSSWiBfmNIgRzlLpJdJbzBs,1236 Long Run Road,White Oak,PA,15131,(412) 678-2755,Rite Aid #10911 White Oak
+40.63502,-75.4883,ChIJpTYlvq45xIkRzirwegq4gTU,2108 Macarthur Road,Whitehall,PA,18052,(610) 740-9401,Rite Aid #04004 Whitehall
+41.24065,-75.8823,ChIJ9YMd_YsaxYkRcccKgRzw8pE,155 East Northampton Street,Wilkes-Barre,PA,18701,(570) 822-2791,Rite Aid #01413 Wilkes-Barre
+41.22463,-75.8786,ChIJscRo2b8axYkRjNfmQGellTI,920 Wilkes-Barre Township Blvd,Wilkes-Barre,PA,18702,(570) 823-8730,Rite Aid #11077 Wilkes-Barre
+40.44575,-79.8896,ChIJR1qFwcTtNIgRufGYNqxYoLI,331 Penn Avenue,Wilkinsburg,PA,15221,(412) 731-9822,Rite Aid #10935 Wilkinsburg
+41.244,-77.0041,ChIJOVhFLhmmz4kRPOKh_NInhnU,14 Fifth Street,Williamsport,PA,17701,(570) 321-9350,Rite Aid #04415 Williamsport
+41.25192,-76.9618,ChIJo_sf34Cmz4kRQTmBbZGiA3A,1913 East 3rd Street,Williamsport,PA,17701,(570) 323-0402,Rite Aid #11036 Williamsport
+41.25901,-77.0443,ChIJudovI86oz4kROnSXeTwFgQE,2023 Lycoming Creek Road,Williamsport,PA,17701,(570) 327-9920,Rite Aid #04791 Williamsport
+39.98533,-76.2842,ChIJy0DPQVolxokRDjdHm0pNliQ,2600 N Willow Street Pike,Willow Street,PA,17584,(717) 464-1720,Rite Aid #11034 Willow Street
+40.2346,-78.8313,ChIJlePLFTYFy4kRZhlJkop54Sg,1516 Jefferson Avenue,Windber,PA,15963,(814) 467-9168,Rite Aid #01780 Windber
+40.37137,-76.1896,ChIJIcLmg1IJxokR5_hqmpOxXPI,420 North 3rd Street,Womelsdorf,PA,19567,(610) 589-4186,Rite Aid #03400 Womelsdorf
+40.00323,-75.2834,EisyODQgRSBMYW5jYXN0ZXIgQXZlLCBBcmRtb3JlLCBQQSAxOTAwMywgVVNBIjESLwoUChIJ1Wc7HpDAxokRCWcrIXoPTn0QnAIqFAoSCZGLmLS99caJEQKEfkmHeZMn,284 East Lancaster Avenue,Wynnewood,PA,19096,(610) 649-3798,Rite Aid #11122 Wynnewood
+40.33942,-75.9811,ChIJw2XG901xxokRNr3Wn7g2Qkk,2210 State Hill Road,Wyomissing,PA,19610,(610) 378-1465,Rite Aid #11174 Wyomissing
+40.22135,-74.8719,ChIJW-lkKKBWwYkRNvAyq6yBKzc,657 Heacock Road,Yardley,PA,19067,(215) 321-0105,Rite Aid #01704 Yardley
+40.22193,-74.8732,ChIJkUoR959WwYkR499N7z8W7zs,696 Stoney Hill Road,Yardley,PA,19067,(215) 321-9143,Rite Aid #11114 Yardley
+39.94051,-75.2569,ChIJpWREMlDBxokR7LBkJe-xshQ,950 East Baltimore Pike,Yeadon,PA,19050,(610) 622-3795,Rite Aid #02442 Yeadon
+39.91074,-76.7061,ChIJx-a1yQuJyIkRH-cIMqfFBF8,115 Leader Heights Road,York,PA,17403,(717) 741-0823,Rite Aid #07886 York
+39.95393,-76.7534,ChIJ0RB2fAqMyIkR913078e7ez4,1200 West Market Street,York,PA,17404,(717) 854-6989,Rite Aid #00451 York
+39.97839,-76.66,ChIJSerWDHSPyIkRZ6YWsc64VaM,3300 East Market Street,York,PA,17402,(717) 840-0204,Rite Aid #11033 York
+39.96164,-76.7289,ChIJfdYwEaaOyIkR5EWc7h0MIx4,40-42 West Market Street,York,PA,17401,(717) 854-4432,Rite Aid #00517 York
