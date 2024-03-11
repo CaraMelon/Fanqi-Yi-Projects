@@ -1,3 +1,6 @@
 [submodule "CDR-OR-Research"]
 	path = CDR-OR-Research
 	url = https://github.com/CaraMelon/CDR-OR-Research.git
+[submodule "MLIP-group-project-s23"]
+	path = MLIP-group-project-s23
+	url = https://github.com/cmu-seai/group-project-s23-the-tensor-titans.git
